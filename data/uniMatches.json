@@ -1,0 +1,3327 @@
+[
+  {
+    "dbName": "AKAD Hochschule Stuttgart - staatlich anerkannt",
+    "bestMatch": {
+      "scrapedName": "Hochschule der Medien Stuttgart",
+      "score": 0.5294117647058824
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Akademie der Bildenden Künste München",
+    "bestMatch": {
+      "scrapedName": "Akademie der Bildenden Künste München",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Akademie der Bildenden Künste Nürnberg",
+    "bestMatch": {
+      "scrapedName": "Akademie der Bildenden Künste Nürnberg",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Akademie der Polizei Hamburg",
+    "bestMatch": { "scrapedName": "Akademie der Künste", "score": 0.5 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Akkon-Hochschule",
+    "bestMatch": {
+      "scrapedName": "EBC Hochschule",
+      "score": 0.6666666666666666
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Albert-Ludwigs-Universität Freiburg im Breisgau",
+    "bestMatch": {
+      "scrapedName": "Universität Freiburg",
+      "score": 0.5901639344262295
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Alice Salomon Hochschule Berlin",
+    "bestMatch": {
+      "scrapedName": "Alice Salomon Hochschule Berlin",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Allensbach Hochschule Konstanz, staatlich anerkannte Hochschule der European Education Group GmbH",
+    "bestMatch": {
+      "scrapedName": "Hochschule Konstanz - Hochschule für Technik, Wirtschaft und Gestaltung",
+      "score": 0.4189189189189189
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "APOLLON Hochschule der Gesundheitswirtschaft",
+    "bestMatch": {
+      "scrapedName": "APOLLON Hochschule der Gesundheitswirtschaft",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Archivschule Marburg – Hochschule für Archivwissenschaft",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Angewandte Wissenschaften Hamburg",
+      "score": 0.5591397849462365
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Augustana-Hochschule Neuendettelsau",
+    "bestMatch": {
+      "scrapedName": "Augustana-Hochschule Neuendettelsau",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Bard College Berlin, A Liberal Arts University",
+    "bestMatch": {
+      "scrapedName": "Bard College Berlin",
+      "score": 0.5818181818181818
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Barenboim-Said Akademie",
+    "bestMatch": { "scrapedName": "Barenboim-Said Akademie", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Bauhaus-Universität Weimar",
+    "bestMatch": { "scrapedName": "Bauhaus-Universität Weimar", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "bbw Hochschule",
+    "bestMatch": { "scrapedName": "bbw Hochschule", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Bergische Universität Wuppertal",
+    "bestMatch": {
+      "scrapedName": "Bergische Universität Wuppertal",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Berlin International University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Berlin International - University of Applied Sciences",
+      "score": 0.967032967032967
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "SRH Berlin University of Applied Sciences",
+        "score": 0.775
+      }
+    ]
+  },
+  {
+    "dbName": "Berliner Hochschule für Technik",
+    "bestMatch": {
+      "scrapedName": "Berliner Hochschule für Technik",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Berufliche Hochschule Hamburg (BHH)",
+    "bestMatch": {
+      "scrapedName": "HFH Hamburger Fern-Hochschule",
+      "score": 0.5964912280701754
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Brand University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Brand University of Applied Sciences",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "BSP Business and Law School - Hochschule für Management und Recht",
+    "bestMatch": {
+      "scrapedName": "IST-Hochschule für Management",
+      "score": 0.575
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Bucerius Law School, Hochschule für Rechtswissenschaft",
+    "bestMatch": {
+      "scrapedName": "Akkon Hochschule für Humanwissenschaften",
+      "score": 0.5476190476190477
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Burg Giebichenstein Kunsthochschule Halle",
+    "bestMatch": {
+      "scrapedName": "Burg Giebichenstein Kunsthochschule Halle",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Carl von Ossietzky Universität Oldenburg",
+    "bestMatch": {
+      "scrapedName": "Universität Flensburg",
+      "score": 0.5185185185185185
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Christian-Albrechts-Universität zu Kiel",
+    "bestMatch": {
+      "scrapedName": "Christian-Albrechts-Universität zu Kiel",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "CODE University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "CODE University of Applied Sciences",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Cusanus Hochschule für Gesellschaftsgestaltung",
+    "bestMatch": {
+      "scrapedName": "Cusanus Hochschule für Gesellschaftsgestaltung",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "CVJM-Hochschule Kassel",
+    "bestMatch": {
+      "scrapedName": "CVJM-Hochschule (Kassel)",
+      "score": 0.9047619047619048
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "DEKRA Hochschule für Medien",
+    "bestMatch": { "scrapedName": "DEKRA Hochschule für Medien", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Deutsche Hochschule der Polizei",
+    "bestMatch": {
+      "scrapedName": "Deutsche Hochschule der Polizei (Münster)",
+      "score": 0.8571428571428571
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Deutsche Hochschule für Prävention und Gesundheitsmanagement GmbH",
+    "bestMatch": {
+      "scrapedName": "Deutsche Hochschule für Prävention und Gesundheitsmanagement GmbH",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Deutsche Sporthochschule Köln",
+    "bestMatch": { "scrapedName": "Deutsche Sporthochschule Köln", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Deutsche Universität für Verwaltungswissenschaften Speyer",
+    "bestMatch": {
+      "scrapedName": "Deutsche Universität für Verwaltungswissenschaften Speyer",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Digital Business University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "CODE University of Applied Sciences",
+      "score": 0.7323943661971831
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "DIU - Dresden International University GmbH",
+    "bestMatch": {
+      "scrapedName": "Dresden International University",
+      "score": 0.8787878787878788
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Eberhard Karls Universität Tübingen",
+    "bestMatch": {
+      "scrapedName": "Universität Tübingen",
+      "score": 0.7346938775510204
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "EBS Universität für Wirtschaft und Recht",
+    "bestMatch": {
+      "scrapedName": "EBS Universität für Wirtschaft und Recht",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "EBZ Business School - University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "CODE University of Applied Sciences",
+      "score": 0.7027027027027027
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Ernst-Abbe-Hochschule Jena - University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Ernst-Abbe-Hochschule Jena – University of Applied Sciences",
+      "score": 0.9615384615384616
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Hochschule Ruhr West- University of Applied Sciences",
+        "score": 0.7835051546391752
+      }
+    ]
+  },
+  {
+    "dbName": "ESCP Europe Wirtschaftshochschule Berlin e.V.",
+    "bestMatch": {
+      "scrapedName": "ESCP Europe Wirtschaftshochschule Berlin e.V.",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "ESMT European School of Management and Technology",
+    "bestMatch": {
+      "scrapedName": "European School of Management and Technology",
+      "score": 0.95
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Europäische Fernhochschule Hamburg",
+    "bestMatch": {
+      "scrapedName": "Europäische Fernhochschule Hamburg",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Europa-Universität Flensburg",
+    "bestMatch": { "scrapedName": "Europa-Universität Flensburg", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Europa-Universität Viadrina Frankfurt (Oder)",
+    "bestMatch": {
+      "scrapedName": "Europa-Universität Viadrina Frankfurt (Oder)",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Evangelische Hochschule Berlin",
+    "bestMatch": {
+      "scrapedName": "Evangelische Hochschule Berlin",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Evangelische Hochschule Freiburg, staatlich anerkannte Hochschule der Evangelischen Landeskirche in Baden",
+    "bestMatch": {
+      "scrapedName": "Evangelische Hochschule Freiburg",
+      "score": 0.4715447154471545
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Evangelische Hochschule für angewandte Wissenschaften - Evangelische Fachhochschule Nürnberg",
+    "bestMatch": {
+      "scrapedName": "Katholische Stiftungshochschule für angewandte Wissenschaften",
+      "score": 0.60431654676259
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Evangelische Hochschule für Kirchenmusik",
+    "bestMatch": {
+      "scrapedName": "Evangelische Hochschule für Kirchenmusik Dresden",
+      "score": 0.9113924050632911
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Evangelische Hochschule für Kirchenmusik Tübingen",
+        "score": 0.9
+      },
+      {
+        "scrapedName": "Hochschule für evangelische Kirchenmusik Bayreuth (HEKM)",
+        "score": 0.7674418604651163
+      },
+      {
+        "scrapedName": "Evangelische Hochschule für Kirchenmusik Halle (Saale)",
+        "score": 0.8571428571428571
+      }
+    ]
+  },
+  {
+    "dbName": "Evangelische Hochschule für Soziale Arbeit & Diakonie",
+    "bestMatch": {
+      "scrapedName": "Evangelische Hochschule für Soziale Arbeit & Diakonie",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Evangelische Hochschule Rheinland-Westfalen-Lippe",
+    "bestMatch": {
+      "scrapedName": "Evangelische Hochschule Rheinland-Westfalen-Lippe",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Evangelische Hochschule Tabor",
+    "bestMatch": {
+      "scrapedName": "Evangelische Hochschule Tabor (Marburg)",
+      "score": 0.8524590163934426
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Evangelische Hochschule Moritzburg",
+        "score": 0.7719298245614035
+      },
+      {
+        "scrapedName": "Evangelische Hochschule Nürnberg",
+        "score": 0.7636363636363637
+      },
+      {
+        "scrapedName": "Evangelische Hochschule Freiburg",
+        "score": 0.7636363636363637
+      },
+      {
+        "scrapedName": "Evangelische Hochschule Berlin",
+        "score": 0.7924528301886793
+      }
+    ]
+  },
+  {
+    "dbName": "Fachhochschule Clara Hoffbauer Potsdam - University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule Clara Hoffbauer Potsdam",
+      "score": 0.7083333333333334
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule der Diakonie - Diaconia - University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Hochschule Ruhr West- University of Applied Sciences",
+      "score": 0.660377358490566
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule der Polizei Brandenburg",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule Brandenburg",
+      "score": 0.7931034482758621
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule der Verwaltung des Saarlandes",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule für Verwaltung",
+      "score": 0.7076923076923077
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule Dortmund",
+    "bestMatch": { "scrapedName": "Fachhochschule Dortmund", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule Dresden",
+    "bestMatch": { "scrapedName": "Fachhochschule Dresden", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule Erfurt",
+    "bestMatch": { "scrapedName": "Fachhochschule Erfurt", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule für die Wirtschaft Hannover",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule für die Wirtschaft (Hannover)",
+      "score": 0.9473684210526315
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule für Finanzen Brandenburg",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule für Finanzen",
+      "score": 0.8135593220338984
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Fachhochschule Brandenburg",
+        "score": 0.7796610169491526
+      }
+    ]
+  },
+  {
+    "dbName": "Fachhochschule für Interkulturelle Theologie Hermannsburg",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule für Interkulturelle Theologie (Hermannsburg)",
+      "score": 0.9622641509433962
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule für öffentliche Verwaltung, Polizei und Rechtspflege des Landes Mecklenburg-Vorpommern",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule für öffentliche Verwaltung, Polizei und Rechtspflege",
+      "score": 0.7947019867549668
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule für Rechtspflege Nordrhein-Westfalen",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule für Rechtspflege NRW Postfach",
+      "score": 0.7441860465116279
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule für Sport und Management Potsdam",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule für Sport und Management Potsdam",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule Polizei Sachsen-Anhalt",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule Polizei Sachsen-Anhalt",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule Potsdam",
+    "bestMatch": { "scrapedName": "Fachhochschule Potsdam", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule Wedel",
+    "bestMatch": { "scrapedName": "Fachhochschule Wedel", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule Westküste, Hochschule für Wirtschaft und Technik",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule Westküste, Hochschule für Wirtschaft und Technik",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "FernUniversität in Hagen",
+    "bestMatch": { "scrapedName": "FernUniversität in Hagen", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Filmuniversität Babelsberg Konrad Wolf",
+    "bestMatch": {
+      "scrapedName": "Filmuniversität Babelsberg Konrad Wolf",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fliedner Fachhochschule Düsseldorf",
+    "bestMatch": {
+      "scrapedName": "Fliedner Fachhochschule Düsseldorf",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Frankfurt School of Finance & Management",
+    "bestMatch": {
+      "scrapedName": "Frankfurt School of Finance & Management",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Frankfurt University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Brand University of Applied Sciences",
+      "score": 0.8484848484848485
+    },
+    "otherMatches": [
+      { "scrapedName": "CODE University of Applied Sciences", "score": 0.8 }
+    ]
+  },
+  {
+    "dbName": "Freie Hochschule Stuttgart - Seminar für Waldorfpädagogik. Staatlich anerkannte wissenschaftliche Hochschule.",
+    "bestMatch": {
+      "scrapedName": "Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart",
+      "score": 0.45454545454545453
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Freie Theologische Hochschule Gießen",
+    "bestMatch": {
+      "scrapedName": "Freie Theologische Hochschule Gießen",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Friedrich-Schiller-Universität Jena",
+    "bestMatch": {
+      "scrapedName": "Friedrich-Schiller-Universität Jena",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Georg-August-Universität Göttingen",
+    "bestMatch": {
+      "scrapedName": "Georg-August-Universität Göttingen",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "German Graduate School of Management and Law gGmbH Heilbronn, staatlich anerkannte Hochschule",
+    "bestMatch": {
+      "scrapedName": "German Graduate School of Management and Law",
+      "score": 0.6271186440677966
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Gottfried Wilhelm Leibniz Universität Hannover",
+    "bestMatch": {
+      "scrapedName": "Gottfried Wilhelm Leibniz Universität Hannover",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "HafenCity Universität Hamburg",
+    "bestMatch": {
+      "scrapedName": "Technische Universität Hamburg",
+      "score": 0.6415094339622641
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hamburger Fern-Hochschule, gemeinnützige GmbH",
+    "bestMatch": {
+      "scrapedName": "HFH Hamburger Fern-Hochschule",
+      "score": 0.6865671641791045
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Heinrich-Heine-Universität Düsseldorf",
+    "bestMatch": {
+      "scrapedName": "Heinrich-Heine-Universität Düsseldorf",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg",
+    "bestMatch": {
+      "scrapedName": "Universität der Bundeswehr Hamburg",
+      "score": 0.6896551724137931
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hertie School",
+    "bestMatch": { "scrapedName": "Hertie School", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hessische Hochschule für Finanzen und Rechtspflege Rotenburg a.d. Fulda",
+    "bestMatch": {
+      "scrapedName": "Hessische Hochschule für Finanzen und Rechtspflege",
+      "score": 0.8301886792452831
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "HHL Leipzig Graduate School of Management",
+    "bestMatch": {
+      "scrapedName": "HHL Leipzig Graduate School of Management",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "HMU Health and Medical University Potsdam",
+    "bestMatch": {
+      "scrapedName": "Universität Potsdam",
+      "score": 0.5384615384615384
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "hochschule 21",
+    "bestMatch": { "scrapedName": "hochschule 21", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Aalen - Technik und Wirtschaft",
+    "bestMatch": {
+      "scrapedName": "Hochschule Karlsruhe - Technik und Wirtschaft",
+      "score": 0.7837837837837838
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Hochschule für Technik und Wirtschaft Berlin",
+        "score": 0.7671232876712328
+      }
+    ]
+  },
+  {
+    "dbName": "Hochschule Biberach - Hochschule für Architektur und Bauwesen, Betriebswirtschaft und Biotechnologie",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule Westküste, Hochschule für Wirtschaft und Technik",
+      "score": 0.5241379310344828
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Bremen",
+    "bestMatch": { "scrapedName": "Hochschule Bremen", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Bremerhaven",
+    "bestMatch": { "scrapedName": "Hochschule Bremerhaven", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule der Bayerischen Wirtschaft für angewandte Wissenschaften - HDBW",
+    "bestMatch": {
+      "scrapedName": "Hochschule der Bayerischen Wirtschaft (HDBW)",
+      "score": 0.6923076923076923
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule der bildenden Künste (HBK) Essen",
+    "bestMatch": {
+      "scrapedName": "Hochschule der bildenden Künste Essen",
+      "score": 0.8985507246376812
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule der Bildenden Künste Saar",
+    "bestMatch": {
+      "scrapedName": "Hochschule der Bildenden Künste Saar",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule der Deutschen Bundesbank",
+    "bestMatch": {
+      "scrapedName": "Hochschule der Deutschen Bundesbank",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule der Medien Stuttgart",
+    "bestMatch": {
+      "scrapedName": "Hochschule der Medien Stuttgart",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule der Polizei Rheinland-Pfalz",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Finanzen Rheinland-Pfalz",
+      "score": 0.6956521739130435
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule der Wirtschaft für Management",
+    "bestMatch": {
+      "scrapedName": "Hochschule der Wirtschaft für Management",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Düsseldorf",
+    "bestMatch": { "scrapedName": "Hochschule Düsseldorf", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Flensburg",
+    "bestMatch": { "scrapedName": "Hochschule Flensburg", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Fresenius Heidelberg – staatlich anerkannte Hochschule der Hochschule Fresenius für Internationales Management GmbH",
+    "bestMatch": {
+      "scrapedName": "Hochschule Fresenius Heidelberg",
+      "score": 0.4
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Fulda - University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Hochschule Worms, University of Applied Sciences",
+      "score": 0.8333333333333334
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Hochschule für Gesundheit - University of Applied Sciences",
+        "score": 0.782608695652174
+      },
+      {
+        "scrapedName": "Hochschule Bochum - Bochum University of Applied Sciences",
+        "score": 0.7692307692307693
+      },
+      {
+        "scrapedName": "Hochschule Anhalt - Anhalt University of Applied Sciences",
+        "score": 0.7692307692307693
+      },
+      {
+        "scrapedName": "Hochschule Neubrandenburg - University of Applied Sciences",
+        "score": 0.7741935483870968
+      },
+      {
+        "scrapedName": "Hochschule Ruhr West- University of Applied Sciences",
+        "score": 0.8275862068965517
+      },
+      {
+        "scrapedName": "Hochschule Rhein-Waal - University of Applied Sciences",
+        "score": 0.8089887640449438
+      }
+    ]
+  },
+  {
+    "dbName": "Hochschule für angewandte Pädagogik",
+    "bestMatch": {
+      "scrapedName": "Hochschule für angewandte Pädagogik",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für angewandte Wissenschaften Ansbach",
+    "bestMatch": {
+      "scrapedName": "Hochschule für angewandte Wissenschaften Coburg",
+      "score": 0.8470588235294118
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Hochschule für angewandte Wissenschaften Kempten",
+        "score": 0.8372093023255814
+      },
+      {
+        "scrapedName": "Hochschule für Angewandte Wissenschaften Hamburg",
+        "score": 0.813953488372093
+      }
+    ]
+  },
+  {
+    "dbName": "Hochschule für angewandte Wissenschaften Augsburg - University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Hochschule Neubrandenburg - University of Applied Sciences",
+      "score": 0.7154471544715447
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für angewandte Wissenschaften Coburg",
+    "bestMatch": {
+      "scrapedName": "Hochschule für angewandte Wissenschaften Coburg",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Angewandte Wissenschaften Hamburg",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Angewandte Wissenschaften Hamburg",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für angewandte Wissenschaften München",
+    "bestMatch": {
+      "scrapedName": "Hochschule für angewandte Wissenschaften Kempten",
+      "score": 0.8604651162790697
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Wilhelm Löhe Hochschule für angewandte Wissenschaften (Fürth)",
+        "score": 0.7628865979381443
+      },
+      {
+        "scrapedName": "Hochschule für Angewandte Wissenschaften Hamburg",
+        "score": 0.7906976744186046
+      },
+      {
+        "scrapedName": "Hochschule für angewandte Wissenschaften Coburg",
+        "score": 0.8470588235294118
+      }
+    ]
+  },
+  {
+    "dbName": "Hochschule für angewandte Wissenschaften Neu-Ulm",
+    "bestMatch": {
+      "scrapedName": "Hochschule für angewandte Wissenschaften Coburg",
+      "score": 0.8470588235294118
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Wilhelm Löhe Hochschule für angewandte Wissenschaften (Fürth)",
+        "score": 0.7628865979381443
+      },
+      {
+        "scrapedName": "Hochschule für angewandte Wissenschaften Kempten",
+        "score": 0.8372093023255814
+      },
+      {
+        "scrapedName": "Hochschule für Angewandte Wissenschaften Hamburg",
+        "score": 0.7906976744186046
+      }
+    ]
+  },
+  {
+    "dbName": "Hochschule für Bildende Künste (Städelschule)",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Bildende Künste Dresden",
+      "score": 0.7397260273972602
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Bildende Künste Braunschweig",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Bildende Künste Braunschweig",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Bildende Künste Dresden",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Bildende Künste Dresden",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Bildende Künste Hamburg",
+    "bestMatch": {
+      "scrapedName": "HfbK Hochschule für bildende Künste Hamburg",
+      "score": 0.8857142857142857
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Hochschule für Bildende Künste Dresden",
+        "score": 0.7878787878787878
+      }
+    ]
+  },
+  {
+    "dbName": "Hochschule für evangelische Kirchenmusik der Evangelisch-Lutherischen Kirche in Bayern",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Kirchenmusik der Evangelischen Kirche von Westfalen (Herford)",
+      "score": 0.6527777777777778
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Fernsehen und Film München",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Fernsehen und Film München",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Finanzen Rheinland-Pfalz",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Finanzen Rheinland-Pfalz",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Finanzwirtschaft & Management",
+    "bestMatch": {
+      "scrapedName": "Hochschule der Wirtschaft für Management",
+      "score": 0.7567567567567568
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Gestaltung Schwäbisch Gmünd",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Gestaltung Schwäbisch Gmünd",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Gesundheit - University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Gesundheit - University of Applied Sciences",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Grafik und Buchkunst Leipzig",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Grafik und Buchkunst Leipzig",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Jüdische Studien Heidelberg",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Jüdische Studien Heidelberg (Stiftung des öffentlichen Rechts)",
+      "score": 0.7047619047619048
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Katholische Kirchenmusik und Musikpädagogik",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Katholische Kirchenmusik und Musikpädagogik Regensburg",
+      "score": 0.9122807017543859
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Kirchenmusik der Evangelischen Kirche von Westfalen",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Kirchenmusik der Evangelischen Kirche von Westfalen (Herford)",
+      "score": 0.928
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Evangelische Hochschule für Kirchenmusik Dresden",
+        "score": 0.7524752475247525
+      }
+    ]
+  },
+  {
+    "dbName": "Hochschule für Kirchenmusik der Evangelischen Landeskirche in Baden",
+    "bestMatch": {
+      "scrapedName": "Evangelische Hochschule für Kirchenmusik Dresden",
+      "score": 0.7450980392156863
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Kirchenmusik der Evangelischen Landeskirche in Württemberg",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Kirchenmusik der Evangelischen Kirche von Westfalen (Herford)",
+      "score": 0.7121212121212122
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Kirchenmusik der Evangelisch-Lutherischen Landeskirche Sachsens",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Kirchenmusik der Evangelischen Kirche von Westfalen (Herford)",
+      "score": 0.6811594202898551
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Künste Bremen",
+    "bestMatch": { "scrapedName": "Hochschule für Künste Bremen", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Künste im Sozialen, Ottersberg",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Künste im Sozialen Ottersberg",
+      "score": 0.961038961038961
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Musik \"Hanns Eisler\" Berlin",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Musik \"Hanns Eisler\"",
+      "score": 0.9090909090909091
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Musik Carl Maria von Weber Dresden",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Musik -Carl Maria von Weber - Dresden",
+      "score": 0.9285714285714286
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Musik Detmold",
+    "bestMatch": { "scrapedName": "Hochschule für Musik Detmold", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Musik Franz Liszt Weimar",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Musik Franz Liszt Weimar",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Musik Freiburg im Breisgau",
+    "bestMatch": {
+      "scrapedName": "Staatliche Hochschule für Musik Freiburg",
+      "score": 0.7142857142857143
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Musik Karlsruhe",
+    "bestMatch": {
+      "scrapedName": "Staatliche Hochschule für Musik Karlsruhe",
+      "score": 0.8387096774193549
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Hochschule für Musik Saar",
+        "score": 0.7659574468085106
+      }
+    ]
+  },
+  {
+    "dbName": "Hochschule für Musik Nürnberg",
+    "bestMatch": { "scrapedName": "Hochschule für Musik Nürnberg", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Musik Saar",
+    "bestMatch": { "scrapedName": "Hochschule für Musik Saar", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Musik und Darstellende Kunst Frankfurt am Main",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Musik und Darstellende Kunst Frankfurt am Main",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Musik und Theater \"Felix Mendelssohn Bartholdy\" Leipzig",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Musik und Theater -Felix Mendelssohn Bartholdy - Leipzig",
+      "score": 0.9344262295081968
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Musik und Theater Hamburg",
+    "bestMatch": {
+      "scrapedName": "HfMT Hochschule für Musik und Theater Hamburg",
+      "score": 0.9444444444444444
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Hochschule für Musik und Theater München",
+        "score": 0.7941176470588235
+      },
+      {
+        "scrapedName": "Hochschule für Musik und Theater Rostock",
+        "score": 0.7941176470588235
+      }
+    ]
+  },
+  {
+    "dbName": "Hochschule für Musik und Theater München",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Musik und Theater München",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Musik und Theater Rostock",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Musik und Theater Rostock",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Musik Würzburg",
+    "bestMatch": { "scrapedName": "Hochschule für Musik Würzburg", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Musik, Theater und Medien Hannover",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Musik, Theater und Medien Hannover",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für nachhaltige Entwicklung Eberswalde",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Nachhaltige Entwicklung Eberswalde (FH)",
+      "score": 0.9130434782608695
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Öffentliche Verwaltung Bremen",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Öffentliche Verwaltung Bremen",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für öffentliche Verwaltung Kehl",
+    "bestMatch": {
+      "scrapedName": "Hochschule für öffentliche Verwaltung Kehl",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für öffentliche Verwaltung Rheinland-Pfalz",
+    "bestMatch": {
+      "scrapedName": "Hochschule für öffentliche Verwaltung Rheinland-Pfalz",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg",
+    "bestMatch": {
+      "scrapedName": "Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für öffentliche Verwaltung und Rechtspflege (FH), Fortbildungszentrum des Freistaates Sachsen",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule für öffentliche Verwaltung und Rechtspflege in Bayern",
+      "score": 0.6535947712418301
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Philosophie",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Philosophie München",
+      "score": 0.8679245283018868
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Rechtspflege Schwetzingen",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule Schwetzingen",
+      "score": 0.6885245901639344
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Schauspielkunst \"Ernst Busch\"",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Schauspielkunst \"Ernst Busch\"",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Technik Stuttgart",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Technik Stuttgart",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Technik und Wirtschaft Berlin",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Technik und Wirtschaft Berlin",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Technik und Wirtschaft des Saarlandes",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Technik und Wirtschaft des Saarlandes (HTW)",
+      "score": 0.9473684210526315
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Hochschule für Technik und Wirtschaft Dresden (FH)",
+        "score": 0.7727272727272727
+      },
+      {
+        "scrapedName": "Hochschule für Technik und Wirtschaft Berlin",
+        "score": 0.7951807228915663
+      }
+    ]
+  },
+  {
+    "dbName": "Hochschule für Technik und Wirtschaft Dresden – University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Technik und Wirtschaft Dresden (FH)",
+      "score": 0.7090909090909091
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Technik, Wirtschaft und Kultur Leipzig",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Technik, Wirtschaft und Kultur Leipzig",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Wirtschaft und Gesellschaft Ludwigshafen",
+    "bestMatch": {
+      "scrapedName": "Alanus Hochschule für Kunst und Gesellschaft",
+      "score": 0.6206896551724138
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Wirtschaft und Recht Berlin",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Wirtschaft und Recht Berlin",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Geisenheim",
+    "bestMatch": { "scrapedName": "Hochschule Geisenheim", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Hannover",
+    "bestMatch": { "scrapedName": "Hochschule Hannover", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Karlsruhe - Technik und Wirtschaft",
+    "bestMatch": {
+      "scrapedName": "Hochschule Karlsruhe - Technik und Wirtschaft",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Konstanz Technik, Wirtschaft und Gestaltung",
+    "bestMatch": {
+      "scrapedName": "Hochschule Konstanz - Hochschule für Technik, Wirtschaft und Gestaltung",
+      "score": 0.8545454545454545
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Landshut - Hochschule für angewandte Wissenschaften",
+    "bestMatch": {
+      "scrapedName": "Hochschule für angewandte Wissenschaften Coburg",
+      "score": 0.7422680412371134
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Mainz",
+    "bestMatch": { "scrapedName": "Hochschule Mainz", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Mannheim",
+    "bestMatch": { "scrapedName": "Hochschule Mannheim", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Merseburg",
+    "bestMatch": { "scrapedName": "Hochschule Merseburg", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Mittweida, University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Hochschule Worms, University of Applied Sciences",
+      "score": 0.8181818181818182
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Hochschule für Gesundheit - University of Applied Sciences",
+        "score": 0.7708333333333334
+      },
+      {
+        "scrapedName": "Hochschule Bonn-Rhein-Sieg, University of Applied Sciences",
+        "score": 0.7551020408163265
+      },
+      {
+        "scrapedName": "Hochschule Ruhr West- University of Applied Sciences",
+        "score": 0.7692307692307693
+      },
+      {
+        "scrapedName": "Hochschule Rhein-Waal - University of Applied Sciences",
+        "score": 0.7741935483870968
+      }
+    ]
+  },
+  {
+    "dbName": "Hochschule Neubrandenburg - University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Hochschule Neubrandenburg - University of Applied Sciences",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Nordhausen",
+    "bestMatch": { "scrapedName": "Hochschule Nordhausen", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Pforzheim - Gestaltung, Technik, Wirtschaft und Recht",
+    "bestMatch": {
+      "scrapedName": "Hochschule Konstanz - Hochschule für Technik, Wirtschaft und Gestaltung",
+      "score": 0.6610169491525424
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Ravensburg-Weingarten",
+    "bestMatch": {
+      "scrapedName": "Hochschule Ravensburg-Weingarten",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Reutlingen, Hochschule für Technik- Wirtschaft-Informatik-Design",
+    "bestMatch": {
+      "scrapedName": "Hochschule Heilbronn - Hochschule für Technik, Wirtschaft und Informatik",
+      "score": 0.696969696969697
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Schmalkalden",
+    "bestMatch": { "scrapedName": "Hochschule Schmalkalden", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Stralsund",
+    "bestMatch": { "scrapedName": "Hochschule Stralsund", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Weserbergland",
+    "bestMatch": {
+      "scrapedName": "Hochschule Weserbergland (Hameln)",
+      "score": 0.8461538461538461
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Worms, University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Hochschule Worms, University of Applied Sciences",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "HSBA Hamburg School of Business Administration",
+    "bestMatch": {
+      "scrapedName": "HSBA Hamburg School of Business Administration",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "International Psychoanalytic University Berlin",
+    "bestMatch": {
+      "scrapedName": "International Psychoanalytic University Berlin",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Internationale Hochschule Liebenzell (IHL)",
+    "bestMatch": {
+      "scrapedName": "Internationale Hochschule Liebenzell",
+      "score": 0.9295774647887324
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Internationale Hochschule SDI München - Hochschule für angewandte Wissenschaften",
+    "bestMatch": {
+      "scrapedName": "Hochschule für angewandte Wissenschaften Kempten",
+      "score": 0.6666666666666666
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "IST-Hochschule für Management",
+    "bestMatch": { "scrapedName": "IST-Hochschule für Management", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Jacobs University Bremen",
+    "bestMatch": { "scrapedName": "Jacobs University Bremen", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Johann Wolfgang Goethe-Universität, Frankfurt am Main",
+    "bestMatch": {
+      "scrapedName": "Goethe-Universität Frankfurt",
+      "score": 0.684931506849315
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Julius-Maximilians-Universität Würzburg",
+    "bestMatch": {
+      "scrapedName": "Universität Würzburg (Julius-Maximilians-Universität)",
+      "score": 0.8505747126436781
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Justus-Liebig-Universität Gießen",
+    "bestMatch": {
+      "scrapedName": "Justus-Liebig-Universität Gießen",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Karlshochschule International University - staatlich anerkannte Hochschule der Karlshochschule gemeinnützige GmbH Karlsruhe",
+    "bestMatch": {
+      "scrapedName": "Internationale Karlshochschule",
+      "score": 0.38848920863309355
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Karlsruher Institut für Technologie",
+    "bestMatch": {
+      "scrapedName": "Staatliche Hochschule für Gestaltung Karlsruhe",
+      "score": 0.3611111111111111
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Katholische Hochschule Freiburg, staatlich anerkannte Hochschule - Catholic University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Hochschule Bochum - Bochum University of Applied Sciences",
+      "score": 0.5454545454545454
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Katholische Hochschule für Sozialwesen Berlin (KHSB) - Staatlich anerkannte Fachhochschule für Sozialwesen",
+    "bestMatch": {
+      "scrapedName": "Katholische Hochschule für Sozialwesen Berlin",
+      "score": 0.5970149253731343
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Katholische Hochschule Mainz Catholic University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Hochschule Rhein-Waal - University of Applied Sciences",
+      "score": 0.6915887850467289
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Kirchliche Hochschule Wuppertal",
+    "bestMatch": {
+      "scrapedName": "Kirchliche Hochschule Wuppertal/Bethel",
+      "score": 0.8888888888888888
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Kölner Hochschule für Katholische Theologie (KHKT)",
+    "bestMatch": {
+      "scrapedName": "Freie Theologische Hochschule Gießen",
+      "score": 0.5789473684210527
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Kolping Hochschule",
+    "bestMatch": {
+      "scrapedName": "Hochschule Mainz",
+      "score": 0.6666666666666666
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Kommunale Hochschule für Verwaltung in Niedersachsen",
+    "bestMatch": {
+      "scrapedName": "Kommunale Hochschule für Verwaltung in Niedersachsen",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Kühne Logistics University - Wissenschaftliche Hochschule für Logistik und Unternehmensführung",
+    "bestMatch": {
+      "scrapedName": "SRH Hochschule für Logistik und Wirtschaft",
+      "score": 0.48333333333333334
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Kunstakademie Düsseldorf",
+    "bestMatch": { "scrapedName": "Kunstakademie Düsseldorf", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Kunstakademie Münster, Hochschule für Bildende Künste",
+    "bestMatch": {
+      "scrapedName": "Kunstakademie Münster, Hochschule für Bildende Künste",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Kunsthochschule für Medien Köln",
+    "bestMatch": {
+      "scrapedName": "Kunsthochschule für Medien Köln",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Leibniz-Fachhochschule",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule Kiel",
+      "score": 0.6842105263157895
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Leuphana Universität Lüneburg",
+    "bestMatch": { "scrapedName": "Leuphana Universität Lüneburg", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Ludwig-Maximilians-Universität München",
+    "bestMatch": {
+      "scrapedName": "Ludwig-Maximilians-Universität München",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Martin-Luther-Universität Halle-Wittenberg",
+    "bestMatch": {
+      "scrapedName": "Martin-Luther-Universität Halle-Wittenberg",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "media Akademie - Hochschule Stuttgart",
+    "bestMatch": {
+      "scrapedName": "media Akademie - Hochschule Stuttgart",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Mediadesign Hochschule für Design und Informatik",
+    "bestMatch": {
+      "scrapedName": "Mediadesign Hochschule",
+      "score": 0.6451612903225806
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Medical School Berlin - Hochschule für Gesundheit und Medizin (MSB)",
+    "bestMatch": {
+      "scrapedName": "IB Hochschule für Gesundheit und Soziales",
+      "score": 0.5869565217391305
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Medizinische Hochschule Hannover (MHH)",
+    "bestMatch": {
+      "scrapedName": "Medizinische Hochschule Hannover",
+      "score": 0.9206349206349206
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Merz Akademie Hochschule für Gestaltung, Kunst und Medien, Stuttgart - Staatlich anerkannt",
+    "bestMatch": {
+      "scrapedName": "Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart",
+      "score": 0.5671641791044776
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "MSH Medical School Hamburg - University of Applied Sciences and Medical University",
+    "bestMatch": {
+      "scrapedName": "Hochschule Neubrandenburg - University of Applied Sciences",
+      "score": 0.5619834710743802
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Hochschule Ingolstadt",
+    "bestMatch": {
+      "scrapedName": "Technische Hochschule Ingolstadt",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Munich Business School - Staatlich anerkannte private Fachhochschule",
+    "bestMatch": {
+      "scrapedName": "Munich Business School (München)",
+      "score": 0.45454545454545453
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Musikhochschule Lübeck",
+    "bestMatch": { "scrapedName": "Musikhochschule Lübeck", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Muthesius Kunsthochschule",
+    "bestMatch": { "scrapedName": "Muthesius Kunsthochschule", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "NBS Northern Business School – University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "SRH Berlin University of Applied Sciences",
+      "score": 0.6436781609195402
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Norddeutsche Akademie für Finanzen und Steuerrecht",
+    "bestMatch": {
+      "scrapedName": "Norddeutsche Akademie für Finanzen und Steuerrecht (Hamburg)",
+      "score": 0.9072164948453608
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Norddeutsche Hochschule für Rechtspflege - Niedersachsen",
+    "bestMatch": {
+      "scrapedName": "Norddeutsche Hochschule für Rechtspflege (Hildesheim)",
+      "score": 0.7551020408163265
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Ostbayerische Technische Hochschule Regensburg",
+    "bestMatch": {
+      "scrapedName": "Ostbayerische Technische Hochschule Regensburg",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Otto-Friedrich-Universität Bamberg",
+    "bestMatch": {
+      "scrapedName": "Universität Bamberg (Otto-Friedrich-Universität)",
+      "score": 0.8311688311688312
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Otto-von-Guericke-Universität Magdeburg",
+    "bestMatch": {
+      "scrapedName": "Otto-von-Guericke-Universität Magdeburg",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Pädagogische Hochschule Freiburg",
+    "bestMatch": {
+      "scrapedName": "Pädagogische Hochschule Freiburg",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Pädagogische Hochschule Heidelberg",
+    "bestMatch": {
+      "scrapedName": "Pädagogische Hochschule Heidelberg",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Pädagogische Hochschule Karlsruhe",
+    "bestMatch": {
+      "scrapedName": "Pädagogische Hochschule Karlsruhe",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Pädagogische Hochschule Ludwigsburg",
+    "bestMatch": {
+      "scrapedName": "Pädagogische Hochschule Ludwigsburg",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Pädagogische Hochschule Schwäbisch Gmünd",
+    "bestMatch": {
+      "scrapedName": "Pädagogische Hochschule Schwäbisch Gmünd",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Pädagogische Hochschule Weingarten",
+    "bestMatch": {
+      "scrapedName": "Pädagogische Hochschule Weingarten",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Palucca Hochschule für Tanz Dresden",
+    "bestMatch": {
+      "scrapedName": "Palucca Hochschule für Tanz Dresden",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Philipps-Universität Marburg",
+    "bestMatch": { "scrapedName": "Philipps-Universität Marburg", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Philosophisch-Theologische Hochschule Münster - Kirchlich und staatlich anerkannte Hochschule in Trägerschaft der PTH Philosophisch-Theologische Hochschule Münster gemeinnützige GmbH",
+    "bestMatch": {
+      "scrapedName": "Philosophisch-Theologische Hochschule Münster",
+      "score": 0.4077669902912621
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Philosophisch-Theologische Hochschule Sankt Georgen Frankfurt am Main",
+    "bestMatch": {
+      "scrapedName": "Philosophisch-Theologische Hochschule Sankt Georgen (Frankfurt am Main)",
+      "score": 0.9682539682539683
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Private Universität Witten/Herdecke gGmbH",
+    "bestMatch": {
+      "scrapedName": "Universität Witten/Herdecke",
+      "score": 0.8064516129032258
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Provadis School of International Management and Technology",
+    "bestMatch": {
+      "scrapedName": "International School of Management",
+      "score": 0.691358024691358
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Psychologische Hochschule Berlin (PHB)",
+    "bestMatch": {
+      "scrapedName": "Psychologische Hochschule Berlin",
+      "score": 0.9206349206349206
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Quadriga Hochschule Berlin",
+    "bestMatch": { "scrapedName": "Quadriga Hochschule Berlin", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+    "bestMatch": {
+      "scrapedName": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Rheinisch-Westfälische Technische Hochschule Aachen",
+    "bestMatch": {
+      "scrapedName": "Rheinisch-Westfälische Technische Hochschule Aachen",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Robert-Schumann-Hochschule Düsseldorf",
+    "bestMatch": {
+      "scrapedName": "Robert-Schumann-Hochschule Düsseldorf",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Ruhr-Universität Bochum",
+    "bestMatch": { "scrapedName": "Ruhr-Universität Bochum", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "SRH Fernhochschule - The Mobile University",
+    "bestMatch": {
+      "scrapedName": "SRH Fernhochschule Riedlingen",
+      "score": 0.5161290322580645
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "SRH Hochschule Heidelberg - Staatlich anerkannte Fachhochschule",
+    "bestMatch": {
+      "scrapedName": "SRH Hochschule Heidelberg",
+      "score": 0.5641025641025641
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "SRH Wilhelm Löhe Hochschule",
+    "bestMatch": {
+      "scrapedName": "Wilhelm Büchner Hochschule",
+      "score": 0.6521739130434783
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Staatliche Akademie der Bildenden Künste Karlsruhe",
+    "bestMatch": {
+      "scrapedName": "Staatliche Akademie der bildenden Künste Karlsruhe",
+      "score": 0.9545454545454546
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Staatliche Akademie der bildenden Künste Stuttgart",
+        "score": 0.7727272727272727
+      }
+    ]
+  },
+  {
+    "dbName": "Staatliche Akademie der Bildenden Künste Stuttgart",
+    "bestMatch": {
+      "scrapedName": "Staatliche Akademie der bildenden Künste Stuttgart",
+      "score": 0.9545454545454546
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Staatliche Akademie der bildenden Künste Karlsruhe",
+        "score": 0.7727272727272727
+      }
+    ]
+  },
+  {
+    "dbName": "Staatliche Hochschule für Gestaltung Karlsruhe",
+    "bestMatch": {
+      "scrapedName": "Staatliche Hochschule für Gestaltung Karlsruhe",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Staatliche Hochschule für Musik Trossingen",
+    "bestMatch": {
+      "scrapedName": "Staatliche Hochschule für Musik Trossingen",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Staatliche Hochschule für Musik und Darstellende Kunst Mannheim",
+    "bestMatch": {
+      "scrapedName": "Staatliche Hochschule für Musik und Darstellende Kunst Mannheim",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart",
+    "bestMatch": {
+      "scrapedName": "Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Steinbeis-Hochschule Berlin",
+    "bestMatch": {
+      "scrapedName": "Steinbeis-Hochschule",
+      "score": 0.8636363636363636
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Stiftung Tierärztliche Hochschule Hannover",
+    "bestMatch": {
+      "scrapedName": "Tierärztliche Hochschule Hannover",
+      "score": 0.8823529411764706
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Hochschule Aschaffenburg",
+    "bestMatch": {
+      "scrapedName": "Technische Hochschule Aschaffenburg",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Hochschule Bingen",
+    "bestMatch": { "scrapedName": "Technische Hochschule Bingen", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Hochschule Deggendorf",
+    "bestMatch": {
+      "scrapedName": "Technische Hochschule Deggendorf",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Hochschule Georg Agricola",
+    "bestMatch": {
+      "scrapedName": "Technische Hochschule Georg Agricola",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Hochschule Lübeck",
+    "bestMatch": { "scrapedName": "Technische Hochschule Lübeck", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Hochschule Nürnberg Georg Simon Ohm",
+    "bestMatch": {
+      "scrapedName": "Technische Hochschule Georg Agricola",
+      "score": 0.6388888888888888
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Hochschule Rosenheim",
+    "bestMatch": {
+      "scrapedName": "Technische Hochschule Rosenheim",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Hochschule Ulm",
+    "bestMatch": { "scrapedName": "Technische Hochschule Ulm", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Hochschule Wildau",
+    "bestMatch": {
+      "scrapedName": "Technische Hochschule Wildau (FH)",
+      "score": 0.9259259259259259
+    },
+    "otherMatches": [
+      { "scrapedName": "Technische Hochschule Bingen", "score": 0.76 },
+      {
+        "scrapedName": "Technische Hochschule Ulm",
+        "score": 0.8085106382978723
+      },
+      { "scrapedName": "Technische Hochschule Lübeck", "score": 0.76 }
+    ]
+  },
+  {
+    "dbName": "Technische Universität Bergakademie Freiberg",
+    "bestMatch": {
+      "scrapedName": "Technische Universität Bergakademie Freiberg",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Universität Carolo-Wilhelmina zu Braunschweig",
+    "bestMatch": {
+      "scrapedName": "Technische Universität Braunschweig",
+      "score": 0.7469879518072289
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Universität Chemnitz",
+    "bestMatch": {
+      "scrapedName": "Technische Universität München",
+      "score": 0.7636363636363637
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Universität Clausthal",
+    "bestMatch": {
+      "scrapedName": "Technische Universität Clausthal",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Universität Darmstadt",
+    "bestMatch": {
+      "scrapedName": "Technische Universität Darmstadt",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Universität Dortmund",
+    "bestMatch": {
+      "scrapedName": "Technische Universität Dortmund",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Universität Hamburg",
+    "bestMatch": {
+      "scrapedName": "Technische Universität Hamburg",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Universität Ilmenau",
+    "bestMatch": {
+      "scrapedName": "Technische Universität Ilmenau",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Universität Kaiserslautern",
+    "bestMatch": {
+      "scrapedName": "Technische Universität Kaiserslautern",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Theologische Fakultät Fulda",
+    "bestMatch": { "scrapedName": "Theologische Fakultät Fulda", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Theologische Fakultät Paderborn",
+    "bestMatch": {
+      "scrapedName": "Theologische Fakultät Paderborn",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Theologische Fakultät Trier",
+    "bestMatch": {
+      "scrapedName": "Theologische Fakultät Fulda",
+      "score": 0.7916666666666666
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Theologische Fakultät Paderborn",
+        "score": 0.7692307692307693
+      }
+    ]
+  },
+  {
+    "dbName": "Theologische Hochschule Elstal",
+    "bestMatch": {
+      "scrapedName": "Theologische Hochschule Elstal",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Theologische Hochschule Friedensau",
+    "bestMatch": {
+      "scrapedName": "Theologische Hochschule Friedensau",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Theologische Hochschule Reutlingen - staatlich anerkannte Fachhochschule der Evangelisch-methodistischen Kirche",
+    "bestMatch": {
+      "scrapedName": "Theologische Hochschule Reutlingen",
+      "score": 0.4696969696969697
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Theologisches Seminar Ewersbach",
+    "bestMatch": {
+      "scrapedName": "Theologische Hochschule Ewersbach",
+      "score": 0.6551724137931034
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Touro College Berlin",
+    "bestMatch": { "scrapedName": "Touro College Berlin", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Augsburg",
+    "bestMatch": { "scrapedName": "Universität Augsburg", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Bayreuth",
+    "bestMatch": { "scrapedName": "Universität Bayreuth", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Bielefeld",
+    "bestMatch": { "scrapedName": "Universität Bielefeld", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Bremen",
+    "bestMatch": { "scrapedName": "Universität Bremen", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität der Bundeswehr München",
+    "bestMatch": {
+      "scrapedName": "Universität der Bundeswehr München",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität der Künste Berlin",
+    "bestMatch": { "scrapedName": "Universität der Künste Berlin", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Erfurt",
+    "bestMatch": { "scrapedName": "Universität Erfurt", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Greifswald",
+    "bestMatch": { "scrapedName": "Universität Greifswald", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Hildesheim",
+    "bestMatch": {
+      "scrapedName": "Universität Hohenheim",
+      "score": 0.717948717948718
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Hohenheim",
+    "bestMatch": { "scrapedName": "Universität Hohenheim", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Kassel",
+    "bestMatch": { "scrapedName": "Universität Kassel", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Konstanz",
+    "bestMatch": { "scrapedName": "Universität Konstanz", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Mannheim",
+    "bestMatch": { "scrapedName": "Universität Mannheim", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Osnabrück",
+    "bestMatch": { "scrapedName": "Universität Osnabrück", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Paderborn",
+    "bestMatch": { "scrapedName": "Universität Paderborn", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Passau",
+    "bestMatch": { "scrapedName": "Universität Passau", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Potsdam",
+    "bestMatch": { "scrapedName": "Universität Potsdam", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Regensburg",
+    "bestMatch": { "scrapedName": "Universität Regensburg", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Rostock",
+    "bestMatch": { "scrapedName": "Universität Rostock", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Siegen",
+    "bestMatch": { "scrapedName": "Universität Siegen", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Stuttgart",
+    "bestMatch": { "scrapedName": "Universität Stuttgart", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Trier",
+    "bestMatch": { "scrapedName": "Universität Trier", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Ulm",
+    "bestMatch": { "scrapedName": "Universität Ulm", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Vechta",
+    "bestMatch": { "scrapedName": "Universität Vechta", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität zu Köln",
+    "bestMatch": { "scrapedName": "Universität zu Köln", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität zu Lübeck",
+    "bestMatch": {
+      "scrapedName": "Universität Lübeck",
+      "score": 0.8823529411764706
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "University of Labour",
+    "bestMatch": {
+      "scrapedName": "Universität Erfurt",
+      "score": 0.5454545454545454
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "VPU Vinzenz Pallotti University",
+    "bestMatch": {
+      "scrapedName": "FernUniversität in Hagen",
+      "score": 0.4583333333333333
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "VWA-Hochschule für berufsbegleitendes Studium",
+    "bestMatch": {
+      "scrapedName": "VWA Hochschule für berufsbegleitendes Studium Stuttgart",
+      "score": 0.8666666666666667
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "weißensee kunsthochschule berlin",
+    "bestMatch": {
+      "scrapedName": "Kunsthochschule Berlin (Weißensee)",
+      "score": 0.8
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Westfälische Wilhelms-Universität Münster",
+    "bestMatch": {
+      "scrapedName": "Westfälische Wilhelms-Universität Münster",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Wilhelm Büchner Hochschule - Private Fernhochschule Darmstadt",
+    "bestMatch": {
+      "scrapedName": "Wilhelm Büchner Hochschule",
+      "score": 0.5974025974025974
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "XU Exponential University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "XU Exponential University of Applied Sciences",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Zeppelin Universität - Hochschule zwischen Wirtschaft, Kultur und Politik",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Wirtschaft, Technik und Kultur Berlin",
+      "score": 0.5871559633027523
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Alanus Hochschule für Kunst und Gesellschaft",
+    "bestMatch": {
+      "scrapedName": "Alanus Hochschule für Kunst und Gesellschaft",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Brandenburgische Technische Universität Cottbus-Senftenberg",
+    "bestMatch": {
+      "scrapedName": "Brandenburgische Technische Universität Cottbus-Senftenberg (BTU)",
+      "score": 0.9565217391304348
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "CBS International Business School - University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Berlin International - University of Applied Sciences",
+      "score": 0.7961165048543689
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "DHGS Deutsche Hochschule für Gesundheit und Sport",
+    "bestMatch": {
+      "scrapedName": "DHGS Deutsche Hochschule für Gesundheit und Sport",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "DIPLOMA Hochschule - Private Fachhochschule Nordhessen",
+    "bestMatch": {
+      "scrapedName": "Katholische Hochschule Nordrhein-Westfalen",
+      "score": 0.4827586206896552
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Duale Hochschule Baden-Württemberg",
+    "bestMatch": {
+      "scrapedName": "Duale Hochschule Baden-Württemberg (Stuttgart)",
+      "score": 0.8493150684931506
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Duale Hochschule Gera-Eisenach",
+    "bestMatch": {
+      "scrapedName": "Duale Hochschule Gera-Eisenach",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Duale Hochschule Schleswig-Holstein - staatlich anerkannte Hochschule für angewandte Wissenschaften in Trägerschaft der Wirtschaftsakademie Schleswig-Holstein",
+    "bestMatch": {
+      "scrapedName": "Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen",
+      "score": 0.42592592592592593
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Europäische Fachhochschule Rhein/Erft, european university of applied sciences",
+    "bestMatch": {
+      "scrapedName": "Europäische Fachhochschule Rhein/Erft",
+      "score": 0.6538461538461539
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Evangelische Hochschule Darmstadt (staatlich anerkannt) – Kirchliche Körperschaft des öffentlichen Rechts",
+    "bestMatch": {
+      "scrapedName": "Evangelische Hochschule Darmstadt",
+      "score": 0.4838709677419355
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Evangelische Hochschule Dresden",
+    "bestMatch": {
+      "scrapedName": "Evangelische Hochschule Freiburg",
+      "score": 0.7719298245614035
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Evangelische Hochschule für Kirchenmusik Dresden",
+        "score": 0.7605633802816901
+      },
+      {
+        "scrapedName": "Evangelische Hochschule Darmstadt",
+        "score": 0.7586206896551724
+      },
+      {
+        "scrapedName": "Evangelische Hochschule Berlin",
+        "score": 0.7636363636363637
+      }
+    ]
+  },
+  {
+    "dbName": "Evangelische Hochschule Ludwigsburg - staatlich anerkannte Hochschule für Angewandte Wissenschaften der Evangelischen Landeskirche in Württemberg",
+    "bestMatch": {
+      "scrapedName": "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt",
+      "score": 0.4946236559139785
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule Aachen",
+    "bestMatch": { "scrapedName": "Fachhochschule Aachen", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule Bielefeld",
+    "bestMatch": { "scrapedName": "Fachhochschule Bielefeld", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule der Wirtschaft",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule der Wirtschaft Nordrhein-Westfalen",
+      "score": 0.7323943661971831
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule des Mittelstands (FHM)",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule Wedel",
+      "score": 0.6274509803921569
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule für Verwaltung und Dienstleistung in Schleswig-Holstein",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule für Verwaltung und Dienstleistung",
+      "score": 0.8113207547169812
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule Kiel",
+    "bestMatch": { "scrapedName": "Fachhochschule Kiel", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Fachhochschule Südwestfalen",
+    "bestMatch": { "scrapedName": "Fachhochschule Südwestfalen", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "FH Münster University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "CODE University of Applied Sciences",
+      "score": 0.8
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "SRH Berlin University of Applied Sciences",
+        "score": 0.7714285714285715
+      },
+      {
+        "scrapedName": "Brand University of Applied Sciences",
+        "score": 0.7878787878787878
+      }
+    ]
+  },
+  {
+    "dbName": "Folkwang Universität der Künste",
+    "bestMatch": {
+      "scrapedName": "Folkwang Universität der Künste",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "FOM Hochschule für Oekonomie & Management - University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Gesundheit - University of Applied Sciences",
+      "score": 0.7079646017699115
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+    "bestMatch": {
+      "scrapedName": "Universität Erlangen-Nürnberg (Friedrich-Alexander-Universität)",
+      "score": 0.8785046728971962
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "GISMA Business School",
+    "bestMatch": {
+      "scrapedName": "EBZ Business School",
+      "score": 0.7647058823529411
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "HAWK Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen",
+    "bestMatch": {
+      "scrapedName": "Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen",
+      "score": 0.9733333333333334
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hessische Hochschule für Polizei und Verwaltung",
+    "bestMatch": {
+      "scrapedName": "Hessische Hochschule für Polizei und Verwaltung",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "HMKW Hochschule für Medien, Kommunikation und Wirtschaft",
+    "bestMatch": {
+      "scrapedName": "HMKW Hochschule für Medien, Kommunikation und Wirtschaft",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Albstadt-Sigmaringen",
+    "bestMatch": {
+      "scrapedName": "Hochschule Albstadt-Sigmaringen",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Anhalt - Anhalt University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Hochschule Anhalt - Anhalt University of Applied Sciences",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Bochum - University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Hochschule Bochum - Bochum University of Applied Sciences",
+      "score": 0.9130434782608695
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Hochschule für Gesundheit - University of Applied Sciences",
+        "score": 0.7741935483870968
+      },
+      {
+        "scrapedName": "Hochschule Anhalt - Anhalt University of Applied Sciences",
+        "score": 0.7608695652173914
+      },
+      {
+        "scrapedName": "Hochschule Bonn-Rhein-Sieg, University of Applied Sciences",
+        "score": 0.7789473684210526
+      },
+      {
+        "scrapedName": "Hochschule Neubrandenburg - University of Applied Sciences",
+        "score": 0.7659574468085106
+      },
+      {
+        "scrapedName": "Hochschule Ruhr West- University of Applied Sciences",
+        "score": 0.8181818181818182
+      },
+      {
+        "scrapedName": "Hochschule Worms, University of Applied Sciences",
+        "score": 0.8235294117647058
+      },
+      {
+        "scrapedName": "Hochschule Rhein-Waal - University of Applied Sciences",
+        "score": 0.8
+      }
+    ]
+  },
+  {
+    "dbName": "Hochschule Bonn-Rhein-Sieg, University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Hochschule Bonn-Rhein-Sieg, University of Applied Sciences",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Braunschweig/Wolfenbüttel, Ostfalia Hochschule für angewandte Wissenschaften",
+    "bestMatch": {
+      "scrapedName": "Hochschule für angewandte Wissenschaften Kempten",
+      "score": 0.6178861788617886
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Darmstadt",
+    "bestMatch": { "scrapedName": "Hochschule Darmstadt", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule der Bundesagentur für Arbeit - Staatlich anerkannte Hochschule für angewandte Wissenschaft in Mannheim und Schwerin (University of Applied Labour Studies of the Federal Employment Agency)",
+    "bestMatch": {
+      "scrapedName": "Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen",
+      "score": 0.42448979591836733
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule des Bundes für öffentliche Verwaltung",
+    "bestMatch": {
+      "scrapedName": "Hochschule des Bundes für öffentliche Verwaltung",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Emden/Leer",
+    "bestMatch": { "scrapedName": "Hochschule Emden/Leer", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Esslingen",
+    "bestMatch": {
+      "scrapedName": "Hochschule Reutlingen",
+      "score": 0.7567567567567568
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Fresenius",
+    "bestMatch": { "scrapedName": "Hochschule Fresenius", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Angewandte Wissenschaften Hof",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Angewandte Wissenschaften Hamburg",
+      "score": 0.9024390243902439
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Hochschule für angewandte Wissenschaften Kempten",
+        "score": 0.8292682926829268
+      },
+      {
+        "scrapedName": "Hochschule für angewandte Wissenschaften Coburg",
+        "score": 0.8395061728395061
+      }
+    ]
+  },
+  {
+    "dbName": "Hochschule für angewandte Wissenschaften Weihenstephan-Triesdorf",
+    "bestMatch": {
+      "scrapedName": "Hochschule für angewandte Wissenschaften Kempten",
+      "score": 0.7450980392156863
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt (FHWS)",
+    "bestMatch": {
+      "scrapedName": "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt",
+      "score": 0.9491525423728814
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für angewandtes Management",
+    "bestMatch": {
+      "scrapedName": "Hochschule für angewandtes Management (Ismaning)",
+      "score": 0.868421052631579
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für den öffentlichen Dienst in Bayern",
+    "bestMatch": {
+      "scrapedName": "Hochschule für öffentliche Verwaltung Kehl",
+      "score": 0.5897435897435898
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Finanzen NRW",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule für Finanzen",
+      "score": 0.8085106382978723
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Fachhochschule für Finanzen NRW Schloß",
+        "score": 0.7857142857142857
+      }
+    ]
+  },
+  {
+    "dbName": "Hochschule für Kommunikation und Gestaltung",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Kommunikation und Gestaltung",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Musik und Tanz Köln",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Musik und Tanz Köln",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Polizei Baden-Württemberg",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Polizei Baden-Württemberg",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Polizei und öffentliche Verwaltung Nordrhein-Westfalen",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Polizei und öffentliche Verwaltung Nordrhein-Westfalen",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Technik, Wirtschaft und Medien Offenburg",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Technik, Wirtschaft und Kultur Leipzig",
+      "score": 0.723404255319149
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule für Wirtschaft und Umwelt Nürtingen-Geislingen",
+    "bestMatch": {
+      "scrapedName": "Hochschule für Wirtschaft und Umwelt Nürtingen-Geislingen",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Hamm-Lippstadt",
+    "bestMatch": { "scrapedName": "Hochschule Hamm-Lippstadt", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Harz, Hochschule für angewandte Wissenschaften (FH)",
+    "bestMatch": {
+      "scrapedName": "Hochschule für angewandte Wissenschaften Coburg",
+      "score": 0.7422680412371134
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Heilbronn, Technik, Wirtschaft, Informatik",
+    "bestMatch": {
+      "scrapedName": "Hochschule Heilbronn - Hochschule für Technik, Wirtschaft und Informatik",
+      "score": 0.7927927927927928
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Koblenz",
+    "bestMatch": { "scrapedName": "Hochschule Koblenz", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Macromedia - staatlich anerkannte Hochschule für angewandte Wissenschaften der Macromedia GmbH mit Sitz in Stuttgart",
+    "bestMatch": {
+      "scrapedName": "Katholische Stiftungshochschule für angewandte Wissenschaften",
+      "score": 0.49101796407185627
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Magdeburg-Stendal",
+    "bestMatch": { "scrapedName": "Hochschule Magdeburg-Stendal", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Niederrhein",
+    "bestMatch": { "scrapedName": "Hochschule Niederrhein", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Osnabrück",
+    "bestMatch": { "scrapedName": "Hochschule Osnabrück", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule RheinMain",
+    "bestMatch": { "scrapedName": "Hochschule RheinMain", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Rhein-Waal - University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Hochschule Rhein-Waal - University of Applied Sciences",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Ruhr West- University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Hochschule Ruhr West- University of Applied Sciences",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Trier - Trier University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Hochschule Worms, University of Applied Sciences",
+      "score": 0.7865168539325843
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Hochschule Ruhr West- University of Applied Sciences",
+        "score": 0.7608695652173914
+      }
+    ]
+  },
+  {
+    "dbName": "Hochschule Wismar - University of Applied Sciences: Technology, Business and Design",
+    "bestMatch": {
+      "scrapedName": "Hochschule Wismar - University of Applied Sciences: Technology, Business and Design",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Zittau/Görlitz",
+    "bestMatch": { "scrapedName": "Hochschule Zittau/Görlitz", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "HSD Hochschule Döpfer",
+    "bestMatch": { "scrapedName": "HSD Hochschule Döpfer", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "IB Hochschule für Gesundheit und Soziales",
+    "bestMatch": {
+      "scrapedName": "IB Hochschule für Gesundheit und Soziales",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "International School of Management",
+    "bestMatch": {
+      "scrapedName": "International School of Management",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "IU Internationale Hochschule",
+    "bestMatch": {
+      "scrapedName": "IUBH Internationale Hochschule GmbH",
+      "score": 0.8571428571428571
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Internationale Hochschule Bad Honnef Bonn",
+        "score": 0.7540983606557377
+      },
+      {
+        "scrapedName": "Internationale Karlshochschule",
+        "score": 0.7924528301886793
+      },
+      {
+        "scrapedName": "Internationale Hochschule Liebenzell",
+        "score": 0.7931034482758621
+      }
+    ]
+  },
+  {
+    "dbName": "Jade Hochschule - Wilhelmshaven/Oldenburg/Elsfleth",
+    "bestMatch": {
+      "scrapedName": "Hochschule Ravensburg-Weingarten",
+      "score": 0.4473684210526316
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Johannes Gutenberg-Universität Mainz",
+    "bestMatch": {
+      "scrapedName": "Johannes Gutenberg-Universität Mainz",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Katholische Hochschule Nordrhein-Westfalen - Catholic University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "Katholische Hochschule Nordrhein-Westfalen",
+      "score": 0.6842105263157895
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Katholische Stiftungshochschule für angewandte Wissenschaften München - Hochschule der Kirchlichen Stiftung des öffentlichen Rechts \"Katholische Bildungsstätten für Sozialberufe in Bayern\"",
+    "bestMatch": {
+      "scrapedName": "Katholische Stiftungshochschule für angewandte Wissenschaften",
+      "score": 0.5
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Katholische Universität Eichstätt - Ingolstadt",
+    "bestMatch": {
+      "scrapedName": "Katholische Universität Eichstätt-Ingolstadt",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Medizinische Hochschule Brandenburg Theodor Fontane",
+    "bestMatch": {
+      "scrapedName": "Medizinische Hochschule Brandenburg Theodor Fontane",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Nordakademie - Staatlich anerkannte private Fachhochschule mit dualen Studiengängen",
+    "bestMatch": {
+      "scrapedName": "Fachhochschule der Wirtschaft Nordrhein-Westfalen",
+      "score": 0.3865546218487395
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Ostbayerische Technische Hochschule Amberg-Weiden",
+    "bestMatch": {
+      "scrapedName": "Ostbayerische Technische Hochschule Regensburg",
+      "score": 0.7816091954022989
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "PFH - Private Hochschule Göttingen",
+    "bestMatch": {
+      "scrapedName": "PFH - Private Hochschule Göttingen",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Polizeiakademie Niedersachsen",
+    "bestMatch": {
+      "scrapedName": "design akademie berlin",
+      "score": 0.43478260869565216
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Private Hochschule für Wirtschaft und Technik Vechta/Diepholz",
+    "bestMatch": {
+      "scrapedName": "Private Hochschule für Wirtschaft und Technik (Vechta/Diepholz)",
+      "score": 0.9636363636363636
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Rheinische Fachhochschule Köln",
+    "bestMatch": {
+      "scrapedName": "Rheinische Fachhochschule Köln",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Ruprecht-Karls-Universität Heidelberg",
+    "bestMatch": {
+      "scrapedName": "Universität Heidelberg",
+      "score": 0.7272727272727273
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "SRH Berlin University of Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "SRH Berlin University of Applied Sciences",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "SRH Hochschule für Gesundheit",
+    "bestMatch": { "scrapedName": "SRH Hochschule für Gesundheit", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "SRH Hochschule in Nordrhein-Westfalen",
+    "bestMatch": {
+      "scrapedName": "Katholische Hochschule Nordrhein-Westfalen",
+      "score": 0.75
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Steuerakademie Niedersachsen",
+    "bestMatch": {
+      "scrapedName": "Akademie der Künste",
+      "score": 0.47619047619047616
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Hochschule Köln",
+    "bestMatch": {
+      "scrapedName": "Technische Hochschule Ulm",
+      "score": 0.8444444444444444
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Technische Hochschule Bingen",
+        "score": 0.7916666666666666
+      },
+      {
+        "scrapedName": "Technische Hochschule Lübeck",
+        "score": 0.7916666666666666
+      }
+    ]
+  },
+  {
+    "dbName": "Technische Hochschule Mittelhessen - THM",
+    "bestMatch": {
+      "scrapedName": "Technische Hochschule Mittelhessen",
+      "score": 0.9393939393939394
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Hochschule Ostwestfalen-Lippe",
+    "bestMatch": {
+      "scrapedName": "Hochschule Ostwestfalen-Lippe",
+      "score": 0.84375
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Universität Dresden",
+    "bestMatch": {
+      "scrapedName": "Technische Universität Dresden",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Universität München",
+    "bestMatch": {
+      "scrapedName": "Technische Universität München",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Thüringer Fachhochschule für öffentliche Verwaltung",
+    "bestMatch": {
+      "scrapedName": "Hochschule für öffentliche Verwaltung Kehl",
+      "score": 0.7710843373493976
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Fachhochschule für öffentliche Verwaltung und Rechtspflege in Bayern",
+        "score": 0.7547169811320755
+      }
+    ]
+  },
+  {
+    "dbName": "Universität des Saarlandes",
+    "bestMatch": { "scrapedName": "Universität des Saarlandes", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Duisburg-Essen",
+    "bestMatch": { "scrapedName": "Universität Duisburg-Essen", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Koblenz-Landau",
+    "bestMatch": { "scrapedName": "Universität Koblenz-Landau", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "University of Europe for Applied Sciences",
+    "bestMatch": {
+      "scrapedName": "CODE University of Applied Sciences",
+      "score": 0.7692307692307693
+    },
+    "otherMatches": [
+      {
+        "scrapedName": "Brand University of Applied Sciences",
+        "score": 0.7575757575757576
+      }
+    ]
+  },
+  {
+    "dbName": "VICTORIA | Internationale Hochschule",
+    "bestMatch": {
+      "scrapedName": "IUBH Internationale Hochschule GmbH",
+      "score": 0.7301587301587301
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Westfälische Hochschule Gelsenkirchen, Bocholt, Recklinghausen",
+    "bestMatch": {
+      "scrapedName": "Westfälische Hochschule Gelsenkirchen, Bocholt, Recklinghausen",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Westsächsische Hochschule Zwickau",
+    "bestMatch": {
+      "scrapedName": "Westsächsische Hochschule Zwickau (FH)",
+      "score": 0.9375
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "WHU - Otto Beisheim School of Management",
+    "bestMatch": {
+      "scrapedName": "WHU - Otto Beisheim School of Management",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Leipzig",
+    "bestMatch": { "scrapedName": "Universität Leipzig", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Universität Hamburg",
+    "bestMatch": {
+      "scrapedName": "Technische Universität Hamburg",
+      "score": 0.7727272727272727
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Freie Universität Berlin",
+    "bestMatch": { "scrapedName": "Freie Universität Berlin", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Hochschule Kaiserslautern (University of Applied Sciences)",
+    "bestMatch": {
+      "scrapedName": "Hochschule Kaiserslautern (University of Applied Sciences)",
+      "score": 1
+    },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Technische Universität Berlin",
+    "bestMatch": { "scrapedName": "Technische Universität Berlin", "score": 1 },
+    "otherMatches": []
+  },
+  {
+    "dbName": "Humboldt-Universität zu Berlin",
+    "bestMatch": {
+      "scrapedName": "Humboldt Universität zu Berlin",
+      "score": 0.9433962264150944
+    },
+    "otherMatches": []
+  }
+]

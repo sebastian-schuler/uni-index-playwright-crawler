@@ -1,0 +1,2810 @@
+[
+  {
+    "name": "Humboldt Universität zu Berlin",
+    "website": "https://www.hu-berlin.de/",
+    "address": "Humboldt-Universität zu Berlin\nUnter den Linden 6\n10099 Berlin",
+    "email": "pr@hu-berlin.de"
+  },
+  {
+    "name": "Universität Passau",
+    "website": "http://www.uni-passau.de",
+    "address": "Innstraße 41\n94032 Passau",
+    "email": "Katrina.Jordan@uni-passau.de"
+  },
+  {
+    "name": "Brandenburgische Technische Universität Cottbus-Senftenberg (BTU)",
+    "website": "https://www.b-tu.de/",
+    "address": "Platz der Deutschen Einheit 1\n03046 Cottbus",
+    "email": "praesidentin@b-tu.de"
+  },
+  {
+    "name": "Universität Hohenheim",
+    "website": "https://www.uni-hohenheim.de",
+    "address": "Schloss, 70599 Stuttgart",
+    "email": "post@uni-hohenheim.de"
+  },
+  {
+    "name": "Technische Universität Berlin",
+    "website": "http://www.tu.berlin",
+    "address": "Technische Universität Berlin\nDie Präsidentin\nProf. Dr. Geraldine Rauch\nStraße des 17. Juni 135\n10623 Berlin",
+    "email": "p@tu-berlin.de"
+  },
+  {
+    "name": "Universität Bielefeld",
+    "website": "http://www.uni-bielefeld.de/",
+    "address": "Universität Bielefeld\nPostfach 10 01 31\nD-33501 Bielefeld",
+    "email": "post@uni-bielefeld.de"
+  },
+  {
+    "name": "Technische Universität Kaiserslautern",
+    "website": "",
+    "address": "67663 Kaiserslautern, Gottlieb-Daimler-Straße",
+    "email": "info@uni-kl.de"
+  },
+  {
+    "name": "Goethe-Universität Frankfurt",
+    "website": "http://www.uni-frankfurt.de/",
+    "address": "Goethe-Universität Frankfurt am Main\n60629 Frankfurt",
+    "email": "justitiariat@uni-frankfurt.de"
+  },
+  {
+    "name": "Technische Universität Dresden",
+    "website": "https://tu-dresden.de/kontakt",
+    "address": "Glaspavillon\nMommsenstr. 9\n01069 Dresden",
+    "email": "infostelle@tu-dresden.de"
+  },
+  {
+    "name": "Universität Koblenz-Landau",
+    "website": "http://www.uni-koblenz-landau…",
+    "address": "Rhabanusstraße 3 55118 Mainz",
+    "email": "service@uni-koblenz-landau.de"
+  },
+  {
+    "name": "Christian-Albrechts-Universität zu Kiel",
+    "website": "http://www.uni-kiel.de",
+    "address": "Christian-Albrechts-Platz 4 24118 Kiel",
+    "email": "mail@uni-kiel.de"
+  },
+  {
+    "name": "Gottfried Wilhelm Leibniz Universität Hannover",
+    "website": "https://www.uni-hannover.de/",
+    "address": "Welfengarten 1\n30167 Hannover",
+    "email": "kommunikation@uni-hannover.de"
+  },
+  {
+    "name": "Universität zu Köln",
+    "website": "http://www.Uni-Koeln.de",
+    "address": "Albertus-Magnus-Platz 50931 Köln",
+    "email": "auskunftsersuchen@uni-koeln.de"
+  },
+  {
+    "name": "Universität Erlangen-Nürnberg (Friedrich-Alexander-Universität)",
+    "website": "http://www.fau.de",
+    "address": "Schloßplatz 4 91054 Erlangen",
+    "email": "poststelle@fau.de"
+  },
+  {
+    "name": "Universität Bayreuth",
+    "website": "http://www.uni-bayreuth.de",
+    "address": "Universitätsstr. 30 95447 Bayreuth",
+    "email": "poststelle@uvw.uni-bayreuth.de"
+  },
+  {
+    "name": "Universität Augsburg",
+    "website": "http://www.uni-augsburg.de",
+    "address": "Universitätsstr. 2 86159 Augsburg",
+    "email": "poststelle@uni-augsburg.de"
+  },
+  {
+    "name": "Ruhr-Universität Bochum",
+    "website": "https://www.ruhr-uni-bochum.d…",
+    "address": "Universitätsstraße 150,\n44801 Bochum",
+    "email": "webmaster@ruhr-uni-bochum.de"
+  },
+  {
+    "name": "Philosophische Fakultät Uni Rostock",
+    "website": "http://www.phf.uni-rostock.de",
+    "address": "August-Bebel-Str. 28, 18055 Rostock",
+    "email": "dekan.phf@uni-rostock.de"
+  },
+  {
+    "name": "Otto-von-Guericke-Universität Magdeburg",
+    "website": "http://www.ovgu.de",
+    "address": "Universitätsplatz 2 39106 Magdeburg",
+    "email": "rektor@ovgu.de"
+  },
+  {
+    "name": "Kommunikations- und Informationszentrum Universität Ulm Universität Ulm",
+    "website": "http://kiz.uni-ulm.de",
+    "address": "Albert-Einstein-Allee 11\n89081 Ulm",
+    "email": "helpdesk@uni-ulm.de"
+  },
+  {
+    "name": "Ernst-Abbe-Hochschule Jena – University of Applied Sciences",
+    "website": "http://www.fh-jena.de",
+    "address": "Carl-Zeiss-Promenade 2 7745 Jena",
+    "email": "rektorat@fh-jena.de"
+  },
+  {
+    "name": "Universität Potsdam",
+    "website": "http://www.uni-potsdam.de/",
+    "address": "Am Neuen Palais 10\n14469 Potsdam",
+    "email": "presse@uni-potsdam.de"
+  },
+  {
+    "name": "Ludwig-Maximilians-Universität München",
+    "website": "https://www.uni-muenchen.de/i…",
+    "address": "",
+    "email": "presse@lmu.de"
+  },
+  {
+    "name": "Medizinische Fakultät Mannheim der Universität Heidelberg",
+    "website": "https://www.umm.uni-heidelber…",
+    "address": "Theodor Kutzer-Ufer 1-3\n68167 Mannheim",
+    "email": "dekanat@medma.uni-heidelberg.de"
+  },
+  {
+    "name": "Universität Siegen",
+    "website": "http://www.uni-siegen.de",
+    "address": "Adolf-Reichwein-Straße 2a\n57076 Siegen",
+    "email": "presse@uni-siegen.de"
+  },
+  {
+    "name": "Universität Rostock",
+    "website": "http://www.uni-rostock.de/",
+    "address": "Universitätsplatz 1\n18055 Rostock",
+    "email": "rektor@uni-rostock.de"
+  },
+  {
+    "name": "Universität Duisburg-Essen",
+    "website": "http://www.uni-due.de/",
+    "address": "Forsthausweg 2\n47057 Duisburg",
+    "email": "rektor@uni-duisburg-essen.de"
+  },
+  {
+    "name": "Universität Freiburg",
+    "website": "http://www.uni-freiburg.de",
+    "address": "Postfach Postfach79085 Freiburg",
+    "email": "info@verwaltung.uni-freiburg.de"
+  },
+  {
+    "name": "Technische Universität Dortmund",
+    "website": "http://www.tu-dortmund.de",
+    "address": "August-Schmidt-Straße 4 44227 Dortmund",
+    "email": "presse@tu-dortmund.de"
+  },
+  {
+    "name": "Universität Lübeck",
+    "website": "https://www.uni-luebeck.de/",
+    "address": "Ratzeburger Allee 160\n23562 Lübeck\n",
+    "email": "presse@uni-luebeck.de"
+  },
+  {
+    "name": "Johannes Gutenberg-Universität Mainz",
+    "website": "",
+    "address": "55122 Mainz, Saarstraße 21",
+    "email": "kanzler@verwaltung.uni-mainz.de"
+  },
+  {
+    "name": "Friedrich-Schiller-Universität Jena",
+    "website": "http://www.uni-jena.de/",
+    "address": "Fürstengraben 1 7743 Jena",
+    "email": "presse@uni-jena.de"
+  },
+  {
+    "name": "Universität Kassel",
+    "website": "http://www.uni-kassel.de",
+    "address": "Mönchebergstraße 19 DE 34125 Kassel",
+    "email": "poststelle@uni-kassel.de"
+  },
+  {
+    "name": "Bauhaus-Universität Weimar",
+    "website": "http://www.uni-weimar.de",
+    "address": "Geschwister-Scholl-Straße 8 DE 99423 Weimar",
+    "email": "info@uni-weimar.de"
+  },
+  {
+    "name": "Georg-August-Universität Göttingen",
+    "website": "https://uni-goettingen.de/",
+    "address": "Georg-August-Universität Göttingen\nWilhelmsplatz 1\n37073 Göttingen",
+    "email": "pressestelle@uni-goettingen.de"
+  },
+  {
+    "name": "Universität Mannheim",
+    "website": "http://www.uni-mannheim.de",
+    "address": "Schloss, 68131 Mannheim",
+    "email": "studium@verwaltung.uni-mannheim.de"
+  },
+  {
+    "name": "Universität Heidelberg",
+    "website": "http://www.uni-heidelberg.de",
+    "address": "Grabengasse 1\n69117 Heidelberg",
+    "email": "gb@zuv.uni-heidelberg.de"
+  },
+  {
+    "name": "Gliedkörperschaft von Freier Universität Berlin und Humboldt-Universität",
+    "website": "http://www.fu-berlin.de/einri…",
+    "address": "",
+    "email": "presse@fu-berlin.de"
+  },
+  {
+    "name": "Universität Würzburg (Julius-Maximilians-Universität)",
+    "website": "http://www.uni-wuerzburg.de",
+    "address": "Sanderring 2 97070 Würzburg",
+    "email": "universitaet@zv.uni-wuerzburg.de"
+  },
+  {
+    "name": "Europa-Universität Viadrina Frankfurt (Oder)",
+    "website": "http://www.europa-uni.de",
+    "address": "Große Scharrnstraße 59 15230 Frankfurt",
+    "email": "lamprecht@europa-uni.de"
+  },
+  {
+    "name": "Heinrich-Heine-Universität Düsseldorf",
+    "website": "http://www.uni-duesseldorf.de",
+    "address": "Universitätsstraße 1\n40225 Düsseldorf",
+    "email": "justitiariat@hhu.de"
+  },
+  {
+    "name": "Universität Paderborn",
+    "website": "https://www.uni-paderborn.de/",
+    "address": "Warburger Straße 100\n33098 Paderborn",
+    "email": "presse@zv.upb.de"
+  },
+  {
+    "name": "Universität Bremen",
+    "website": "http://www.uni-bremen.de/",
+    "address": "Bibliothekstraße 1 28359 Bremen",
+    "email": "ifg-beauftragte@uni-bremen.de"
+  },
+  {
+    "name": "Universität Bamberg (Otto-Friedrich-Universität)",
+    "website": "http://www.uni-bamberg.de",
+    "address": "Kapuzinerstr. 16 96047 Bamberg",
+    "email": "poststelle@uni-bamberg.de"
+  },
+  {
+    "name": "Bergische Universität Wuppertal",
+    "website": "http://www.uni-wuppertal.de",
+    "address": "Gaußstraße 20 42119 Wuppertal",
+    "email": "presse@uni-wuppertal.de"
+  },
+  {
+    "name": "Universität Tübingen",
+    "website": "http://www.uni-tuebingen.de",
+    "address": "Geschwister-Scholl-Platz, 72074 Tübingen",
+    "email": "info@uni-tuebingen.de"
+  },
+  {
+    "name": "FernUniversität in Hagen",
+    "website": "http://www.fernuni-hagen.de",
+    "address": "Universitätsstraße 47 58097 Hagen",
+    "email": "fragdenstaat@fernuni-hagen.de"
+  },
+  {
+    "name": "Folkwang Universität der Künste",
+    "website": "http://www.folkwang-uni.de",
+    "address": "Klemensborn 39 45239 Essen",
+    "email": "info@folkwang-uni.de"
+  },
+  {
+    "name": "Universität Flensburg",
+    "website": "http://www.uni-flensburg.de",
+    "address": "Auf dem Campus 1 24943 Flensburg",
+    "email": ""
+  },
+  {
+    "name": "Universität der Künste Berlin",
+    "website": "http://www.udk-berlin.de/",
+    "address": "",
+    "email": "presse@udk-berlin.de"
+  },
+  {
+    "name": "Universität Greifswald",
+    "website": "http://www.uni-greifswald.de",
+    "address": "17487 Greifswald",
+    "email": "pressestelle@uni-greifswald.de"
+  },
+  {
+    "name": "Universität Konstanz",
+    "website": "http://www.uni-konstanz.de",
+    "address": "Universitätsstraße 10\n78464 Konstanz",
+    "email": "posteingang@uni-konstanz.de"
+  },
+  {
+    "name": "Universität des Saarlandes",
+    "website": "http://www.uni-saarland.de/",
+    "address": "Postfach 151150\n66041 Saarbrücken",
+    "email": "t.offergeld@univw.uni-saarland.de"
+  },
+  {
+    "name": "Technische Universität München",
+    "website": "https://www.tum.de",
+    "address": "Arcisstr. 19\n80333 München",
+    "email": "presse@tum.de"
+  },
+  {
+    "name": "Philipps-Universität Marburg",
+    "website": "http://www.uni-marburg.de",
+    "address": "Biegenstraße 10 DE 35037 Marburg",
+    "email": "pressestelle@uni-marburg.de"
+  },
+  {
+    "name": "Uni Hamburg",
+    "website": "http://www.uni-hamburg.de/",
+    "address": "",
+    "email": "praesident@uni-hamburg.de"
+  },
+  {
+    "name": "Martin-Luther-Universität Halle-Wittenberg",
+    "website": "http://www.uni-halle.de",
+    "address": "Universitätsplatz 10\n06108 Halle",
+    "email": "rektor@uni-halle.de"
+  },
+  {
+    "name": "Freie Universität Berlin",
+    "website": "http://www.fu-berlin.de",
+    "address": "Kaiserswerther Str. 16-18\n14195 Berlin",
+    "email": "rechtsamt@fu-berlin.de"
+  },
+  {
+    "name": "Universität Leipzig",
+    "website": "https://www.uni-leipzig.de",
+    "address": "Universität Leipzig\nAugustusplatz 10\n04109 Leipzig",
+    "email": "rektorin@uni-leipzig.de"
+  },
+  {
+    "name": "Universität Trier",
+    "website": "",
+    "address": "54286 Trier, Universitätsring 15",
+    "email": "presse@uni-trier.de"
+  },
+  {
+    "name": "Universität Stuttgart",
+    "website": "http://www.uni-stuttgart.de",
+    "address": "Keplerstraße 7\n70174 Stuttgart",
+    "email": "poststelle@uni-stuttgart.de"
+  },
+  {
+    "name": "Universität der Bundeswehr München",
+    "website": "http://www.unibw.de",
+    "address": "Werner-Heisenberg-Weg 39 85579 Neubiberg",
+    "email": "info@unibw.de"
+  },
+  {
+    "name": "Technische Universität Ilmenau",
+    "website": "http://www.tu-ilmenau.de",
+    "address": "Ehrenbergstr. 29 DE 98693 Ilmenau",
+    "email": "rektor@tu-ilmenau.de"
+  },
+  {
+    "name": "Technische Universität Hamburg",
+    "website": "http://www.tuhh.de/",
+    "address": "Am Schwarzenberg-Campus 1\n21073 Hamburg",
+    "email": "praesident@tuhh.de"
+  },
+  {
+    "name": "Westfälische Wilhelms-Universität Münster",
+    "website": "http://www.uni-muenster.de/de/",
+    "address": "Schlossplatz 2\n48149 Münster",
+    "email": "verwaltung@uni-muenster.de"
+  },
+  {
+    "name": "Universität der Bundeswehr Hamburg",
+    "website": "http://www.hsu-hh.de",
+    "address": "Holstenhofweg 85\n22043 Hamburg, Freie und Hansestadt Hamburg\nDeutschland",
+    "email": ""
+  },
+  {
+    "name": "Theologische Fakultät Uni Rostock",
+    "website": "http://www.theologie.uni-rost…",
+    "address": "Universitätsplatz 1, 18055 Rostock",
+    "email": "dekan.thf@uni-rostock.de"
+  },
+  {
+    "name": "Uni Hafencity",
+    "website": "http://www.hcu-hamburg.de/",
+    "address": "",
+    "email": "infothek@hcu-hamburg.de"
+  },
+  {
+    "name": "Universität Ulm",
+    "website": "http://www.uni-ulm.de",
+    "address": "Oberer Eselsberg, 89081 Ulm",
+    "email": "verwaltung@uni-ulm.de"
+  },
+  {
+    "name": "Universität Erfurt",
+    "website": "http://www.uni-erfurt.de",
+    "address": "Nordhäuser Straße 63 99089 Erfurt",
+    "email": "praesident@uni-erfurt.de"
+  },
+  {
+    "name": "Technische Universität Darmstadt",
+    "website": "https://www.tu-darmstadt.de",
+    "address": "Karolinenplatz 5\n64285 Darmstadt",
+    "email": "datenschutz@tu-darmstadt.de"
+  },
+  {
+    "name": "bsu - bremen_service universität",
+    "website": "http://www.bsu.uni-bremen.de",
+    "address": "Klagenfurter Straße None\n28359 Bremen",
+    "email": "bsu@uni-bremen.de"
+  },
+  {
+    "name": "FH Münster",
+    "website": "https://www.fh-muenster.de/",
+    "address": "Hüfferstraße 27 48149 Münster",
+    "email": "justiziariat@fh-muenster.de"
+  },
+  {
+    "name": "Berliner Hochschule für Technik",
+    "website": "https://www.bht-berlin.de/",
+    "address": "Luxemburger Str. 10\n13353 Berlin",
+    "email": "praesident@bht-berlin.de"
+  },
+  {
+    "name": "Hochschule Harz",
+    "website": "http://www.hs-harz.de",
+    "address": "Friedrichstr. 57-59 , 38855 Wernigerode",
+    "email": "info@hs-harz.de"
+  },
+  {
+    "name": "Fachhochschule für öffentliche Verwaltung und Rechtspflege in Bayern",
+    "website": "https://www.fhvr.bayern.de",
+    "address": "Hochschule für den öffentlichen Dienst in Bayern\nZentralverwaltung\nWagmüllerstraße 20\n80538 München",
+    "email": "poststelle@hfoed.bayern.de"
+  },
+  {
+    "name": "Hochschule Ostwestfalen-Lippe",
+    "website": "http://www.hs-owl.de",
+    "address": "Liebigstraße 87 32657 Lemgo",
+    "email": "pressestelle@hs-owl.de"
+  },
+  {
+    "name": "Norddeutsche Hochschule für Rechtspflege (Hildesheim)",
+    "website": "http://www.hr-nord.niedersach…",
+    "address": "Norddeutsche Hochschule für Rechtspflege (HR Nord)\nDer Rektor\nGodehardsplatz 6\n31134 Hildesheim",
+    "email": "fhrhi-poststelle@justiz.niedersachsen.de"
+  },
+  {
+    "name": "HSD Hochschule Döpfer",
+    "website": "https://www.hs-doepfer.de/",
+    "address": "HSD Hochschule Döpfer GmbH\nWaidmarkt 3 und 9\n50676 Köln",
+    "email": "kontakt@hs-doepfer.de"
+  },
+  {
+    "name": "Hochschule für Musik, Theater und Medien Hannover",
+    "website": "https://www.hmtm-hannover.de/",
+    "address": "Neues Haus 1\n30175 Hannover",
+    "email": "pressestelle@hmtm-hannover.de"
+  },
+  {
+    "name": "TuTech Innovation GmbH",
+    "website": "http://tutech.de",
+    "address": "Harburger Schloßstraße 6-12\n21079 Hamburg",
+    "email": "info@tutech.de"
+  },
+  {
+    "name": "Alice Salomon Hochschule Berlin",
+    "website": "http://www.ash-berlin.eu/",
+    "address": "",
+    "email": "rektorat@ash-berlin.eu"
+  },
+  {
+    "name": "Philosophisch-Theologische Hochschule Münster",
+    "website": "http://www.pth-muenster.de/",
+    "address": "PTH Philosophisch-Theologische Hochschule Münster gemeinnützige GmbH\nKapuzinerstr. 27\n48149 Münster",
+    "email": "info@pth-muenster.de"
+  },
+  {
+    "name": "XU Exponential University of Applied Sciences",
+    "website": "https://xu-university.com/",
+    "address": "August-Bebel-Str. 26-53\n14482 Potsdam",
+    "email": "hello@xu-university.com"
+  },
+  {
+    "name": "Landesfinanzschule Rheinland-Pfalz",
+    "website": "",
+    "address": "67480 Edenkoben, Luitpoldstraße 33",
+    "email": "poststelle@fhfin-ed.fin-rlp.de"
+  },
+  {
+    "name": "Hochschule Niederrhein",
+    "website": "http://www.hs-niederrhein.de",
+    "address": "Reinarzstraße 49 47805 Krefeld",
+    "email": "webmaster@hs-niederrhein.de"
+  },
+  {
+    "name": "Hochschule für Technik und Wirtschaft Dresden (FH)",
+    "website": "http://www.htw-dresden.de",
+    "address": "Friedrich-List-Platz 1, 01069 Dresden ,",
+    "email": "info@htw-dresden.de"
+  },
+  {
+    "name": "Fachhochschule für Verwaltung",
+    "website": "http://www.saarland.de/fhsv.h…",
+    "address": "Am Campus 7\n66287 Quierschied-Göttelborn",
+    "email": "fhsv@fhsv.saarland.de"
+  },
+  {
+    "name": "Hochschule für Musik und Theater München",
+    "website": "http://www.musikhochschule-mu…",
+    "address": "Arcisstraße 12\n80333 München",
+    "email": "verwaltung@hmtm.de"
+  },
+  {
+    "name": "Hochschule für Technik Stuttgart",
+    "website": "http://www.hft-stuttgart.de",
+    "address": "Schellingstr. 24\n70174 Stuttgart",
+    "email": "rektorat@hft-stuttgart.de"
+  },
+  {
+    "name": "Hochschule Merseburg",
+    "website": "http://www.hs-merseburg.de",
+    "address": "Eberhard-Leibnitz-Straße 2 6217 Merseburg",
+    "email": "rektorat@hs-merseburg.de"
+  },
+  {
+    "name": "Hochschule Augsburg",
+    "website": "https://www.hs-augsburg.de/",
+    "address": "Hochschule für angewandte Wissenschaften Augsburg\nAn der Hochschule 1\n86161 Augsburg",
+    "email": "info@hs-augsburg.de"
+  },
+  {
+    "name": "Theologische Fakultät Paderborn",
+    "website": "https://www.thf-paderborn.de/",
+    "address": "Theologische Fakultät Paderborn\nKamp 6\nD-33098 Paderborn",
+    "email": "rektorat@thf-paderborn.de"
+  },
+  {
+    "name": "Evangelische Hochschule für Soziale Arbeit in Dresden",
+    "website": "https://www.ehs-dresden.de/",
+    "address": "Evangelische Hochschule Dresden - University of Applied Sciences for Social Work, Education and Nursing\nPostfach 200143\n01191 Dresden",
+    "email": "rektorat@ehs-dresden.de"
+  },
+  {
+    "name": "Evangelische Hochschule Moritzburg",
+    "website": "https://eh-moritzburg.de/",
+    "address": "Ev. Hochschule Moritzburg\nBahnhofstraße 9\n01468 Moritzburg",
+    "email": "sekretariat@eh-moritzburg.de"
+  },
+  {
+    "name": "Technische Hochschule Mittelhessen",
+    "website": "https://www.thm.de/",
+    "address": "Wiesenstraße 14\n35390 Gießen",
+    "email": "info@thm.de"
+  },
+  {
+    "name": "Katholische Hochschule für Sozialwesen Berlin",
+    "website": "https://www.khsb-berlin.de/",
+    "address": "Köpenicker Allee 39-57\n10318 Berlin",
+    "email": "presse@khsb-berlin.de"
+  },
+  {
+    "name": "Hochschule Koblenz",
+    "website": "http://www.hs-koblenz.de",
+    "address": "Konrad-Zuse-Straße 1 56075 Koblenz",
+    "email": "infos@hs-koblenz.de"
+  },
+  {
+    "name": "Hochschule Bremen",
+    "website": "http://www.hs-bremen.de",
+    "address": "Neustadtswall 30\nD-28199 Bremen",
+    "email": "Hubert.Willmeroth@hs-bremen.de"
+  },
+  {
+    "name": "Evangelische Hochschule Ludwigsburg",
+    "website": "https://www.eh-ludwigsburg.de/",
+    "address": "Paulusweg 6\n71638 Ludwigsburg",
+    "email": "info@eh-ludwigsburg.de"
+  },
+  {
+    "name": "Hochschule Geisenheim",
+    "website": "https://www.hs-geisenheim.de/",
+    "address": "Von-Lade-Str.1\n65366 Geisenheim",
+    "email": "info@hs-gm.de"
+  },
+  {
+    "name": "Hochschule für angewandtes Management (Ismaning)",
+    "website": "https://www.fham.de/",
+    "address": "Hochschule für angewandtes Management GmbH\nSteinheilstraße 4\n85737 Ismaning",
+    "email": "info@fham.de"
+  },
+  {
+    "name": "BSP Business School Berlin",
+    "website": "https://www.businessschool-be…",
+    "address": "Calandrellistraße 1–9\n12247 Berlin",
+    "email": "info@businessschool-berlin.de"
+  },
+  {
+    "name": "Jacobs University Bremen",
+    "website": "https://www.jacobs-university…",
+    "address": "Campus Ring 1\n28759 Bremen",
+    "email": "info@jacobs-university.de"
+  },
+  {
+    "name": "Norddeutsche Akademie für Finanzen und Steuerrecht (Hamburg)",
+    "website": "https://www.hamburg.de/fb/nor…",
+    "address": "Finanzbehörde Hamburg\n-Steuerverwaltung-\nGänsemarkt 36\n20354 Hamburg",
+    "email": "fiskuss@fb.hamburg.de"
+  },
+  {
+    "name": "Kunsthochschule Kassel",
+    "website": "https://www.kunsthochschuleka…",
+    "address": "Kunsthochschule Kassel\nMenzelstraße 13–15\nD-34121 Kassel",
+    "email": "poststelle@uni-kassel.de"
+  },
+  {
+    "name": "Medizinische Hochschule Hannover",
+    "website": "https://www.mhh.de/",
+    "address": "Medizinische Hochschule Hannover (MHH)\nCarl-Neuberg-Str. 1\n30625 Hannover",
+    "email": "pressestelle@mh-hannover.de"
+  },
+  {
+    "name": "Westfälische Hochschule Gelsenkirchen, Bocholt, Recklinghausen",
+    "website": "http://www.w-hs.de",
+    "address": "Neidenburger Straße 43 45897 Gelsenkirchen",
+    "email": "info@w-hs.de"
+  },
+  {
+    "name": "SRH Hochschule der populären Künste",
+    "website": "https://www.hdpk.de/",
+    "address": "Potsdamer Straße 188\n10783 Berlin",
+    "email": "info.hsbe@srh.de"
+  },
+  {
+    "name": "Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart",
+    "website": "http://www.mh-stuttgart.de",
+    "address": "Urbanstraße 25\n70182 Stuttgart",
+    "email": "post@mh-stuttgart.de"
+  },
+  {
+    "name": "Hochschule Aalen",
+    "website": "https://www.hs-aalen.de",
+    "address": "Beethovenstraße 1\n73430 Aalen",
+    "email": "info@hs-aalen.de"
+  },
+  {
+    "name": "Mediadesign Hochschule",
+    "website": "https://www.mediadesign.de/",
+    "address": "Franklinstraße 28 - 29\n10587 Berlin",
+    "email": "info@mediadesign.de"
+  },
+  {
+    "name": "Universität Osnabrück",
+    "website": "https://www.uni-osnabrueck.de",
+    "address": "Universität Osnabrück\nPostfach 44 69\n49069 Osnabrück",
+    "email": "pressestelle@uni-osnabrueck.de"
+  },
+  {
+    "name": "Hochschule für Polizei und öffentliche Verwaltung Nordrhein-Westfalen",
+    "website": "https://www.hspv.nrw.de/",
+    "address": "Hochschule für Polizei und öffentliche Verwaltung Nordrhein-Westfalen\nHaidkamp 73\n45886 Gelsenkirchen",
+    "email": "poststelle@hspv.nrw.de"
+  },
+  {
+    "name": "Staatliche Hochschule für Musik Karlsruhe",
+    "website": "http://www.hfm-karlsruhe.de",
+    "address": "Schloss GottesaueWolfartsweierer Strasse 7a76131 Karlsruhe",
+    "email": "betriebsbuero@hfm-karlsruhe.de"
+  },
+  {
+    "name": "Psychologische Hochschule Berlin",
+    "website": "https://www.psychologische-ho…",
+    "address": "Am Köllnischen Park 2\n10179 Berlin",
+    "email": "kontakt@psychologische-hochschule.de"
+  },
+  {
+    "name": "Fachschule für Agrarwirtschaft",
+    "website": "http://www.bockhorst.de",
+    "address": "Berufliche Schule des Landes M-V \"Johann Heinrich von Thünen\" Fachschule für Agrarwirtschaft Bockhorst 1 18273 Güstrow",
+    "email": "post-gue@fs.mv-regierung.de"
+  },
+  {
+    "name": "Fachhochschule des Bundes",
+    "website": "http://www.fhbund.de",
+    "address": "Postfach ,16 60, 50306 Brühl",
+    "email": "postzb@fhbund.de"
+  },
+  {
+    "name": "Kühne Logistics University",
+    "website": "https://www.the-klu.org/",
+    "address": "Grosser Grasbrook 17\n20457 Hamburg",
+    "email": "info@the-klu.org"
+  },
+  {
+    "name": "Zeppelin Universität",
+    "website": "https://www.zu.de/",
+    "address": "Am Seemooser Horn 20\n88045 Friedrichshafen",
+    "email": "onlineredaktion@zu.de"
+  },
+  {
+    "name": "Wilhelm Löhe Hochschule für angewandte Wissenschaften (Fürth)",
+    "website": "https://www.wlh-fuerth.de",
+    "address": "Wilhelm Löhe Hochschule\nMerkurstr. 41 Südstadtpark\n90763 Fürth",
+    "email": "info@wlh-fuerth.de"
+  },
+  {
+    "name": "Hochschule Heilbronn, Campus Künzelsau - Reinhold-Würth-Hochschule",
+    "website": "https://www.hs-heilbronn.de",
+    "address": "Daimlerstraße 35\n74653 Künzelsau",
+    "email": "campus-kuen@hs-heilbronn.de"
+  },
+  {
+    "name": "Wilhelm Büchner Hochschule",
+    "website": "https://www.wb-fernstudium.de/",
+    "address": "Hochschule für Berufstätige Darmstadt GmbH\nOstendstr. 3\n64319 Pfungstadt",
+    "email": "info@wb-fernstudium.de"
+  },
+  {
+    "name": "WHU - Otto Beisheim School of Management",
+    "website": "https://www.whu.edu/",
+    "address": "Burgplatz 2\n56179 Vallendar",
+    "email": "whu@whu.edu"
+  },
+  {
+    "name": "Universität Vechta",
+    "website": "https://www.uni-vechta.de",
+    "address": "Universität Vechta\nDriverstraße 22\nD - 49377 Vechta",
+    "email": "info@uni-vechta.de"
+  },
+  {
+    "name": "Universität Regensburg",
+    "website": "https://www.uni-regensburg.de",
+    "address": "Universität Regensburg\nUniversitätsstraße 31\n93053 Regensburg",
+    "email": "kontakt@ur.de"
+  },
+  {
+    "name": "Touro College Berlin",
+    "website": "https://www.touroberlin.de/",
+    "address": "Am Rupenhorn 5\n14055 Berlin",
+    "email": "info@touroberlin.de"
+  },
+  {
+    "name": "Tierärztliche Hochschule Hannover",
+    "website": "https://www.tiho-hannover.de",
+    "address": "Stiftung Tierärztliche Hochschule Hannover\nBünteweg 2\n30559 Hannover",
+    "email": "info@tiho-hannover.de"
+  },
+  {
+    "name": "Thüringer Verwaltungsfachhochschule",
+    "website": "https://www.thueringen.de/th3…",
+    "address": "Bahnhofstraße 12\n99867 Gotha",
+    "email": "bz-gotha@bzgth.thueringen.de"
+  },
+  {
+    "name": "Theologische Hochschule Friedensau",
+    "website": "https://www.thh-friedensau.de/",
+    "address": "An der Ihle 19\n39291 Möckern-Friedensau",
+    "email": "hochschule@thh-friedensau.de"
+  },
+  {
+    "name": "Theologische Hochschule Ewersbach",
+    "website": "https://th-ewersbach.de/",
+    "address": "Theologische Hochschule Ewersbach\nKronberg-Forum, Jahnstraße 49-53\nD-35716 Dietzhölztal",
+    "email": "info@the.feg.de"
+  },
+  {
+    "name": "Theologische Hochschule Elstal",
+    "website": "https://www.th-elstal.de/",
+    "address": "Johann-Gerhard-Oncken-Straße 7\n14641 Wustermark bei Berlin",
+    "email": "kontakt@th-elstal.de"
+  },
+  {
+    "name": "Theologische Fakultät Fulda",
+    "website": "https://thf-fulda.de/",
+    "address": "Theologische Fakultät Fulda, in Rechtsträgerschaft des Bischöflichen Stuhls zu Fulda\nEduard-Schick-Platz 2\n36037 Fulda",
+    "email": "rektorat@thf-fulda.de"
+  },
+  {
+    "name": "Technische Universität Clausthal",
+    "website": "https://www.tu-clausthal.de/",
+    "address": "Technische Universität Clausthal\nAdolph-Roemer-Straße 2a\n38678 Clausthal-Zellerfeld",
+    "email": "info@tu-clausthal.de"
+  },
+  {
+    "name": "Technische Hochschule Ingolstadt",
+    "website": "http://www.thi.de",
+    "address": "Esplanade 10 85049 Ingolstadt",
+    "email": "info@thi.de"
+  },
+  {
+    "name": "Technische Hochschule Georg Agricola",
+    "website": "https://www.thga.de/",
+    "address": "Technische Hochschule Georg Agricola\nStaatlich anerkannte Hochschule der DMT-Gesellschaft für Lehre und Bildung (DMT-LB)\nHerner Straße 45\n44787 Bochum",
+    "email": "presse@thga.de"
+  },
+  {
+    "name": "Technische Hochschule Aschaffenburg",
+    "website": "https://www.th-ab.de",
+    "address": "Technische Hochschule Aschaffenburg\nWürzburger Str. 45\n63743 Aschaffenburg",
+    "email": "info@th-ab.de"
+  },
+  {
+    "name": "GoBS Hochschule für Wirtschaft und Verwaltung",
+    "website": "https://www.go-bs.de/",
+    "address": "Bismarckstraße 107\n10625 Berlin",
+    "email": "studienberatung@go-bs.de"
+  },
+  {
+    "name": "Steinbeis-Hochschule",
+    "website": "https://www.steinbeis-hochsch…",
+    "address": "Steinbeis-Hochschule\nErnst-Augustin-Straße 15\n12489 Berlin",
+    "email": "shb@steinbeis.de"
+  },
+  {
+    "name": "Staatliche Zentralstelle für Fernunterricht (ZFU)",
+    "website": "http://www.zfu.de",
+    "address": "Peter-Welter-Platz 2\n50676 Köln",
+    "email": "poststelle@zfu.nrw.de"
+  },
+  {
+    "name": "Staatliche Hochschule für Bildende Künste – Städelschule (Frankfurt am Main)",
+    "website": "https://www.staedelschule.de",
+    "address": "Hochschule für Bildende Künste–Städelschule\nDürerstraße 10\n60596 Frankfurt am Main",
+    "email": "mailing@staedelschule.de"
+  },
+  {
+    "name": "SRH Hochschule für Gesundheit",
+    "website": "https://www.gesundheitshochsc…",
+    "address": "Neue Straße 28-30\n07548 Gera",
+    "email": "info@srh-gesundheitshochschule.de"
+  },
+  {
+    "name": "SRH Berlin University of Applied Sciences",
+    "website": "https://www.srh-hochschule-be…",
+    "address": "Ernst-Reuter-Platz 10\n10587 Berlin",
+    "email": "info.hsbe@srh.de"
+  },
+  {
+    "name": "Sächsische Akademie der Künste",
+    "website": "",
+    "address": "Neustädter Markt 19, 01097 Dresden ,",
+    "email": "sak_dresden@web.de"
+  },
+  {
+    "name": "Quadriga Hochschule Berlin",
+    "website": "https://www.quadriga-universi…",
+    "address": "Werderscher Markt 13\n10117 Berlin",
+    "email": "info@quadriga-university.com"
+  },
+  {
+    "name": "Provadis Hochschule",
+    "website": "https://www.provadis-hochschu…",
+    "address": "Provadis School of International Management and Technology AG\nIndustriepark Höchst, Geb. B845\n65926 Frankfurt am Main",
+    "email": "info@provadis-hochschule.de"
+  },
+  {
+    "name": "Private Hochschule für Wirtschaft und Technik (Vechta/Diepholz)",
+    "website": "https://www.phwt.de/",
+    "address": "Private Hochschule für Wirtschaft und Technik gGmbH\nRombergstraße 40\n49377 Vechta",
+    "email": "info@phwt.de"
+  },
+  {
+    "name": "Popakademie Baden-Württemberg (Mannheim)",
+    "website": "https://www.popakademie.de",
+    "address": "Popakademie Baden-Württemberg\nHafenstr. 33\n68159 Mannheim",
+    "email": "info@popakademie.de"
+  },
+  {
+    "name": "Internationale Hochschule Bad Honnef Bonn",
+    "website": "https://www.iubh.de",
+    "address": "IUBH Internationale Hochschule\nMülheimer Str. 38\n53604 Bad Honnef",
+    "email": "info@iubh.de"
+  },
+  {
+    "name": "Philosophisch-Theologische Hochschule Vallendar",
+    "website": "https://www.pthv.de/",
+    "address": "Pallottistr. 3\n56179 Vallendar",
+    "email": "info@pthv.de"
+  },
+  {
+    "name": "Philosophisch-Theologische Hochschule Sankt Georgen (Frankfurt am Main)",
+    "website": "https://www.sankt-georgen.de",
+    "address": "Philosophisch-Theologische Hochschule Sankt Georgen\nOffenbacher Landstr. 224\n60599 Frankfurt",
+    "email": "rektorat@sankt-georgen.de"
+  },
+  {
+    "name": "PFH - Private Hochschule Göttingen",
+    "website": "https://www.pfh.de/",
+    "address": "PFH Private Hochschule Göttingen\nPrivate University of Applied Sciences\nStaatlich anerkannte Hochschule in privater Trägerschaft\nWeender Landstraße 3-7\n37073 Göttingen",
+    "email": "info@pfh.de"
+  },
+  {
+    "name": "NBS Northern Business School",
+    "website": "https://www.nbs.de/",
+    "address": "Holstenhofweg 62\n22043 Hamburg",
+    "email": "info@nbs.de"
+  },
+  {
+    "name": "Naturwissenschaftlich-Technische Akademie",
+    "website": "https://www.nta-isny.de",
+    "address": "Na­tur­wis­sen­schaft­lich-Tech­ni­sche Aka­de­mie (nta) Prof. Dr. Gr­üb­ler gemeinnützigeGmbH, Isny\nStaat­lich an­er­kann­te Be­rufs­kol­legs und Fachhochschule\nSei­den­stra­ße 24-35\n88316 Is­ny im Allgäu",
+    "email": "info@nta-isny.de"
+  },
+  {
+    "name": "Hochschule Zittau/Görlitz",
+    "website": "https://www.hszg.de/",
+    "address": "Theodor-Körner-Allee 16\n02763 Zittau",
+    "email": "info@hszg.de"
+  },
+  {
+    "name": "Munich Business School (München)",
+    "website": "https://www.munich-business-s…",
+    "address": "Munich Business School\nElsenheimerstraße 61\n80687 München Germany",
+    "email": "info@munich-business-school.de"
+  },
+  {
+    "name": "Merz Akademie (Stuttgart)",
+    "website": "https://www.merz-akademie.de/",
+    "address": "Merz Akademie\ngemeinnützige GmbH\nTeckstraße 58\nD-70190 Stuttgart",
+    "email": "info@merz-akademie.de"
+  },
+  {
+    "name": "Merz Akademie",
+    "website": "https://www.merz-akademie.de",
+    "address": "Merz Akademie\ngemeinnützige GmbH\nTeckstraße 58\nD-70190 Stuttgart",
+    "email": "info@merz-akademie.de"
+  },
+  {
+    "name": "Macromedia Hochschule für Medien und Kommunikation (München)",
+    "website": "https://www.macromedia-fachho…",
+    "address": "Macromedia GmbH\nSandstraße 9\n80335 München",
+    "email": "info.muc@macromedia.de"
+  },
+  {
+    "name": "Leibniz-Akademie Hannover (Hannover)",
+    "website": "https://www.leibniz-akademie.…",
+    "address": "Leibniz-Akademie\nExpo Plaza 11\n30539 Hannover",
+    "email": "info@leibniz-akademie.de"
+  },
+  {
+    "name": "Landesfinanzschule Bremen",
+    "website": "http://www.finanzen.bremen.de…",
+    "address": "Rudolf-Hilferding-Platz 1\n28195 Bremen",
+    "email": "landesfinanzschule@finanzen.bremen.de"
+  },
+  {
+    "name": "Katholische Hochschule Nordrhein-Westfalen",
+    "website": "https://www.katho-nrw.de/",
+    "address": "Wörthstraße 10\n50668 Köln",
+    "email": "rektor@katho-nrw.de"
+  },
+  {
+    "name": "Katholische Hochschule Mainz",
+    "website": "https://www.kh-mz.de/katholis…",
+    "address": "Saarstraße 3\n55122 Mainz",
+    "email": "info@kh-mz.de"
+  },
+  {
+    "name": "Katholische Hochschule Freiburg",
+    "website": "https://www.kh-freiburg.de/",
+    "address": "Karlstraße 63\n79104 Freiburg",
+    "email": "infothek@kh-freiburg.de"
+  },
+  {
+    "name": "IST-Hochschule für Management",
+    "website": "https://www.ist-hochschule.de",
+    "address": "IST-Hochschule für Management\nErkrather Str. 220 a-c\nD-40233 Düsseldorf",
+    "email": "info@ist-hochschule.de"
+  },
+  {
+    "name": "ISS International Business School of Service Management",
+    "website": "https://www.iss-hamburg.de/",
+    "address": "Dorotheenstraße 29 a\n22301 Hamburg",
+    "email": "contact@iss-hamburg.de"
+  },
+  {
+    "name": "Internationale Karlshochschule",
+    "website": "https://karlshochschule.de",
+    "address": "Karlshochschule International University\nKarlstraße 36 - 38\n76133 Karlsruhe",
+    "email": "info@karlshochschule.de"
+  },
+  {
+    "name": "HSBA Hamburg School of Business Administration",
+    "website": "https://www.hsba.de/",
+    "address": "Adolphsplatz 1\n20457 Hamburg",
+    "email": "info@hsba.de"
+  },
+  {
+    "name": "Hochschule Weserbergland (Hameln)",
+    "website": "https://www.hsw-hameln.de/",
+    "address": "Hochschule Weserbergland (HSW)\nAm Stockhof 2\nD-31785 Hameln",
+    "email": "info@hsw-hameln.de"
+  },
+  {
+    "name": "Hochschule Reutlingen",
+    "website": "http://www.hochschule-reutlin…",
+    "address": "Alteburgstraße 150\n72762 Reutlingen",
+    "email": "info@reutlingen-university.de"
+  },
+  {
+    "name": "Hochschule Offenburg",
+    "website": "http://www.hs-offenburg.de",
+    "address": "Badstraße 24\n77652 Offenburg",
+    "email": "info@hs-offenburg.de"
+  },
+  {
+    "name": "Hochschule Nordhausen",
+    "website": "https://www.hs-nordhausen.de/",
+    "address": "Weinberghof 4\n99734 Nordhausen",
+    "email": "info@hs-nordhausen.de"
+  },
+  {
+    "name": "Hochschule Mittweida (FH)",
+    "website": "http://www.htwm.de",
+    "address": "Technikumplatz 17, 09648 Mittweida ,",
+    "email": "info@htwm.de"
+  },
+  {
+    "name": "German open Business School (GOBS) (Berlin)",
+    "website": "https://www.go-bs.de/",
+    "address": "GoBS Hochschule für Wirtschaft und Verwaltung gemeinnützige Gesellschaft mbH\nBismarckstraße 107\n10625 Berlin",
+    "email": "studienberatung@go-bs.de"
+  },
+  {
+    "name": "Hochschule Mannheim",
+    "website": "http://www.hs-mannheim.de",
+    "address": "Paul-Wittsack-Str. 10\n68163 Mannheim",
+    "email": "info@hs-mannheim.de"
+  },
+  {
+    "name": "Hochschule Macromedia",
+    "website": "https://www.macromedia-fachho…",
+    "address": "Macromedia GmbH\nSandstraße 9\n80335 München",
+    "email": "info.muc@macromedia.de"
+  },
+  {
+    "name": "Hochschule Ludwigshafen am Rhein",
+    "website": "http://www.hs-lu.de/",
+    "address": "67059 Ludwigshafen am Rhein, Ernst-Boehe-Straße 4",
+    "email": "info@hs-lu.de"
+  },
+  {
+    "name": "Hochschule Karlsruhe - Technik und Wirtschaft",
+    "website": "https://www.hs-karlsruhe.de",
+    "address": "Moltkestraße 30\n76133 Karlsruhe",
+    "email": "mailbox@h-ka.de"
+  },
+  {
+    "name": "Hochschule für Wirtschaft, Technik und Kultur Berlin",
+    "website": "https://www.hwtk.de",
+    "address": "Bernburger Straße 24/25\n10963 Berlin",
+    "email": "info@hwtk.de"
+  },
+  {
+    "name": "Hochschule für Musik Würzburg",
+    "website": "https://www.hfm-wuerzburg.de/",
+    "address": "Hochschule für Musik Würzburg\nHofstallstr. 6–8\nD–97070 Würzburg",
+    "email": "studierendenservice@hfm-wuerzburg.de"
+  },
+  {
+    "name": "Hochschule für Musik und Theater Rostock",
+    "website": "http://www.hmt-rostock.de",
+    "address": "Beim St.-Katharinenstift 8\n18055 Rostock",
+    "email": "hmt@hmt-rostock.de"
+  },
+  {
+    "name": "Hochschule für Musik und Theater -Felix Mendelssohn Bartholdy - Leipzig",
+    "website": "http://www.hmt-leipzig.de",
+    "address": "Grassistraße 8, 04107 Leipzig ,",
+    "email": "rektor@hmt-leipzig.de"
+  },
+  {
+    "name": "Hochschule für Musik Nürnberg",
+    "website": "https://www.hfm-nuernberg.de",
+    "address": "Hochschule für Musik Nürnberg\nVeilhofstraße 34\n90489 Nürnberg",
+    "email": "info@hfm-nuernberg.de"
+  },
+  {
+    "name": "Hochschule für Künste im Sozialen Ottersberg",
+    "website": "https://www.hks-ottersberg.de/",
+    "address": "Hochschule für Künste im Sozialen (HKS)\nAm Wiestebruch 68\n28870 Ottersberg",
+    "email": "info@hks-ottersberg.de"
+  },
+  {
+    "name": "Hochschule für Künste Bremen",
+    "website": "https://www.hfk-bremen.de",
+    "address": "Am Speicher XI 8\n28217 Bremen",
+    "email": "pressestelle@hfk-bremen.de"
+  },
+  {
+    "name": "Hochschule für Kunst, Design und Populäre Musik Freiburg",
+    "website": "https://www.macromedia-fachho…",
+    "address": "Hochschule Macromedia\nHaslacher Straße 15\n79115 Freiburg",
+    "email": "info.freiburg@macromedia.de"
+  },
+  {
+    "name": "Hochschule für Kommunikation und Gestaltung",
+    "website": "https://www.hfk-bw.de/",
+    "address": "Hochschule für Kommunikation und Gestaltung gGmbH\nKölner Straße 38\n70376 Stuttgart",
+    "email": "stuttgart@hfk-bw.de"
+  },
+  {
+    "name": "Hochschule für Kirchenmusik der Evangelischen Kirche von Westfalen (Herford)",
+    "website": "https://www.hochschule-kirche…",
+    "address": "Hochschule für Kirchenmusik der Evangelischen Kirche von Westfalen\nParkstr. 6\n32049 Herford",
+    "email": "info@hochschule-kirchenmusik.de"
+  },
+  {
+    "name": "Hochschule für Katholische Kirchenmusik und Musikpädagogik Regensburg",
+    "website": "https://www.hfkm-regensburg.d…",
+    "address": "Hochschule für katholische Kirchenmusik und Musikpädagogik\nAndreasstraße 9\nD-93059 Regensburg",
+    "email": "info@hfkm-regensburg.de"
+  },
+  {
+    "name": "Hochschule für Jüdische Studien Heidelberg (Stiftung des öffentlichen Rechts)",
+    "website": "http://www.hfjs.eu",
+    "address": "Landfriedstraße 12\n69117 Heidelberg",
+    "email": "info@hfjs.eu"
+  },
+  {
+    "name": "Hochschule für Grafik und Buchkunst Leipzig",
+    "website": "http://www.hgb-leipzig.de",
+    "address": "Wächterstraße 11, 04107 Leipzig ,",
+    "email": "hgb@hgb-leipzig.de"
+  },
+  {
+    "name": "Hochschule für Gesundheit - University of Applied Sciences",
+    "website": "http://www.hs-gesundheit.de",
+    "address": "Universitätsstraße 105 44789 Bochum",
+    "email": "info@hs-gesundheit.de"
+  },
+  {
+    "name": "Hochschule für Gestaltung Schwäbisch Gmünd",
+    "website": "http://www.hfg-gmuend.de",
+    "address": "Rektor-Klaus-Straße 100\n73525 Schwäbisch Gmünd",
+    "email": "sekretariat@hfg-gmuend.de"
+  },
+  {
+    "name": "Hochschule für Finanzen Rheinland-Pfalz",
+    "website": "https://landesfinanzschule-ed…",
+    "address": "Luitpoldstrasse 33\n67480 Edenkoben",
+    "email": "Poststelle@hochschule.fin-rlp.de"
+  },
+  {
+    "name": "Hochschule für Bildende Künste Dresden",
+    "website": "http://www.hfbk-dresden.de",
+    "address": "Brühlsche Terrasse 1, 01067 Dresden ,",
+    "email": "rektorat@hfbk-dresden.de"
+  },
+  {
+    "name": "Hochschule für angewandte Wissenschaften Kempten",
+    "website": "https://www.hs-kempten.de",
+    "address": "Hochschule für angewandte Wissenschaften Kempten\nKörperschaft des öffentlichen Rechts\nBahnhofstraße 61\nD - 87435 Kempten",
+    "email": "post@hs-kempten.de"
+  },
+  {
+    "name": "Hochschule für Angewandte Wissenschaften Europa - Iserlohn, Berlin, Hamburg",
+    "website": "https://www.ue-germany.com/",
+    "address": "University of Applied Sciences Europe GmbH\nReiterweg 26b\n58636 Iserlohn",
+    "email": "admissions.berlin@ue-germany.com"
+  },
+  {
+    "name": "Hochschule für Angewandte Sprachen München",
+    "website": "https://www.sdi-muenchen.de",
+    "address": "SDI München\nBaierbrunner Straße 28\n81379 München\nDeutschland",
+    "email": "kontakt@sdi-muenchen.de"
+  },
+  {
+    "name": "Hochschule Fresenius",
+    "website": "https://www.hs-fresenius.de",
+    "address": "Hochschule Fresenius\nLimburger Straße 2\nD-65510 Idstein",
+    "email": "idstein@hs-fresenius.de"
+  },
+  {
+    "name": "Hochschule der Medien Stuttgart",
+    "website": "http://www.hdm-stuttgart.de",
+    "address": "Nobelstraße 10\n70569 Stuttgart",
+    "email": "presse@hdm-stuttgart.de"
+  },
+  {
+    "name": "Hochschule der Deutschen Gesetzlichen Unfallversicherung (HGU) (Bad Hersfeld)",
+    "website": "https://www.dguv.de/hochschul…",
+    "address": "Hochschule der Deutschen Gesetzlichen Unfallversicherung (HGU)\nCampus Bad Hersfeld\nSeilerweg 54\n36251 Bad Hersfeld",
+    "email": "hochschule@dguv.de"
+  },
+  {
+    "name": "Hochschule Bochum - Bochum University of Applied Sciences",
+    "website": "http://www.hochschule-bochum.…",
+    "address": "Lennershofstraße 140 44801 Bochum",
+    "email": "kit@hs-bochum.de"
+  },
+  {
+    "name": "Hochschule Biberach",
+    "website": "http://www.hochschule-biberac…",
+    "address": "Karlstraße 11\n88400 Biberach/Riss",
+    "email": "baur@hochschule-bc.de"
+  },
+  {
+    "name": "Hochschule Anhalt - Anhalt University of Applied Sciences",
+    "website": "https://www.hs-anhalt.de",
+    "address": "Bernburger Straße 55 6366 Köthen",
+    "email": "info@hs-anhalt.de"
+  },
+  {
+    "name": "Hochschule Anhalt",
+    "website": "https://www.hs-anhalt.de/",
+    "address": "Bernburger Straße 55\n06366 Köthen",
+    "email": "info@hs-anhalt.de"
+  },
+  {
+    "name": "Hochschule Albstadt-Sigmaringen",
+    "website": "https://www.hs-albsig.de/",
+    "address": "Anton-Günther-Straße 51\n72488 Sigmaringen",
+    "email": "info@hs-albsig.de"
+  },
+  {
+    "name": "Fachhochschule Dresden",
+    "website": "https://www.fh-dresden.eu",
+    "address": "Fachhochschule Dresden (FHD)\nStaatlich anerkannte Hochschule\nUniversity of Applied Sciences\nGüntzstraße 1\n01069 Dresden",
+    "email": "info@fh-dresden.eu"
+  },
+  {
+    "name": "HMKW Hochschule für Medien, Kommunikation und Wirtschaft",
+    "website": "https://www.hmkw.de/",
+    "address": "Ackerstraße 76\n13355 Berlin",
+    "email": "info@hmkw.de"
+  },
+  {
+    "name": "HfMT Hochschule für Musik und Theater Hamburg",
+    "website": "http://www.hfmt-hamburg.de/",
+    "address": "(HfMT Hamburg)\nHarvestehuder Weg 12\n20148 Hamburg",
+    "email": "presse@hfmt-hamburg.de"
+  },
+  {
+    "name": "HFH Hamburger Fern-Hochschule",
+    "website": "https://www.hfh-fernstudium.de",
+    "address": "HFH · Hamburger Fern-Hochschule gemeinnützige GmbH\nAlter Teichweg 19\n22081 Hamburg",
+    "email": "info@hfh-fernstudium.de"
+  },
+  {
+    "name": "Gesundheitscampus Nordrhein-Westfalen Strategiezentrum Gesundheit Nordrhein-Westfalen",
+    "website": "http://www.gis4.nrw.de/Dienst…",
+    "address": "Gesundheitscampus Nordrhein-Westfalen Strategiezentrum Gesundheit Nordrhein-Westfalen\nUniversitätsstraße 136\n44799 Bochum",
+    "email": "strategiezentrum@gc.nrw.de"
+  },
+  {
+    "name": "Freie Hochschule Stuttgart (Stuttgart)",
+    "website": "https://www.freie-hochschule-…",
+    "address": "Freie Hochschule Stuttgart\nHaußmannstraße 44a\nD-70188 Stuttgart",
+    "email": "info@freie-hochschule-stuttgart.de"
+  },
+  {
+    "name": "Filmuniversität Babelsberg Konrad Wolf",
+    "website": "http://www.filmuniversitaet.de",
+    "address": "Marlene-Dietrich-Allee 11 14482 Potsdam",
+    "email": "info@filmuniversitaet.de"
+  },
+  {
+    "name": "Filmakademie Baden-Württemberg (Ludwigsburg)",
+    "website": "https://www.filmakademie.de",
+    "address": "Filmakademie Baden-Württemberg GmbH\nAkademiehof 10\n71638 Ludwigsburg",
+    "email": "info@filmakademie.de"
+  },
+  {
+    "name": "Fachhochschule Wedel",
+    "website": "https://www.fh-wedel.de/",
+    "address": "Feldstraße 143\n22880 Wedel",
+    "email": "sekretariat@fh-wedel.de"
+  },
+  {
+    "name": "Fachhochschule Trier",
+    "website": "http://www.hochschule-trier.d…",
+    "address": "54293 Trier, Schneidershof",
+    "email": "praesidialbuero@fh-trier.de"
+  },
+  {
+    "name": "Hochschule Stralsund",
+    "website": "https://www.hochschule-strals…",
+    "address": "Zur Schwedenschanze 15\n18435 Stralsund",
+    "email": "pressestelle@hochschule-stralsund.de"
+  },
+  {
+    "name": "Fachhochschule für Sport und Management Potsdam",
+    "website": "https://www.fhsmp.de/",
+    "address": "Am Luftschiffhafen 1\n14471 Potsdam",
+    "email": "info@fhsmp.de"
+  },
+  {
+    "name": "DEKRA Hochschule für Medien",
+    "website": "https://www.dekra-hochschule.…",
+    "address": "Ehrenbergstraße 11-14\n10245 Berlin",
+    "email": "info@dekrahochschule.de"
+  },
+  {
+    "name": "Fachhochschule für Finanzen Rheinland-Pfalz",
+    "website": "http://www.fachhochschule-ede…",
+    "address": "67480 Edenkoben, Luitpoldstraße 33",
+    "email": "poststelle@fhfin-ed.fin-rlp.de"
+  },
+  {
+    "name": "Fachhochschule für die Wirtschaft (Hannover)",
+    "website": "https://www.fhdw-hannover.de/",
+    "address": "Fachhochschule für die Wirtschaft Hannover (FHDW)\nFreundallee 15\n30173 Hannover",
+    "email": "info-ha@fhdw.de"
+  },
+  {
+    "name": "Fachhochschule der Wirtschaft Nordrhein-Westfalen",
+    "website": "https://www.fhdw.de/",
+    "address": "Fürstenallee 5\n33102 Paderborn",
+    "email": "info-gf@bib.de"
+  },
+  {
+    "name": "Fachhochschule der Diakonie",
+    "website": "https://www.fh-diakonie.de",
+    "address": "Fachhochschule der Diakonie gemeinnützige GmbH\nBethelweg 8\n33617 Bielefeld",
+    "email": "carsten.boehrnsen@bethel.de"
+  },
+  {
+    "name": "Fachhochschule Clara Hoffbauer Potsdam",
+    "website": "https://www.fhchp.de/",
+    "address": "Hermannswerder 7\n14473 Potsdam",
+    "email": "info@fhchp.de"
+  },
+  {
+    "name": "Evangelische Hochschule Tabor (Marburg)",
+    "website": "https://www.eh-tabor.de",
+    "address": "Stiftung Studien- und Lebensgemeinschaft TABOR\nVertreten durch Matthias Frey\nDürerstraße 43\n35039 Marburg",
+    "email": "info@tabor.de"
+  },
+  {
+    "name": "Evangelische Hochschule für Soziale Arbeit & Diakonie",
+    "website": "https://www.ev-hochschule-hh.…",
+    "address": "Beim Rauhen Hause 21\n22111 Hamburg",
+    "email": "info.eh@rauheshaus.de"
+  },
+  {
+    "name": "Evangelische Hochschule für Kirchenmusik Tübingen",
+    "website": "https://www.kirchenmusikhochs…",
+    "address": "Hochschule für Kirchenmusik der Evangelischen Landeskirche in Württemberg - Staatlich anerkannte Hochschule\nk. Rektor Prof. Jens Wollenschläger\nGartenstraße 12\nD-72074 Tübingen",
+    "email": "info@kirchenmusikhochschule.de"
+  },
+  {
+    "name": "Evangelische Hochschule für Kirchenmusik Dresden",
+    "website": "https://www.kirchenmusik-dres…",
+    "address": "Hochschule für Kirchenmusik Dresden\nKäthe-Kollwitz-Ufer 97\n01309 Dresden",
+    "email": "kirchenmusik-dresden@evlks.de"
+  },
+  {
+    "name": "Evangelische Hochschule Darmstadt",
+    "website": "https://www.eh-darmstadt.de/",
+    "address": "Zweifalltorweg 12\n64293 Darmstadt",
+    "email": "info@eh-darmstadt.de"
+  },
+  {
+    "name": "European School of Management and Technology",
+    "website": "https://esmt.berlin/",
+    "address": "ESMT Berlin\nSchlossplatz 1\n10178 Berlin, Germany",
+    "email": "info@esmt.org"
+  },
+  {
+    "name": "Europäische Fernhochschule Hamburg",
+    "website": "http://www.euro-fh.de",
+    "address": "Europäische Fernhochschule Hamburg\nDoberaner Weg 20\n22143 Hamburg",
+    "email": "studienberatung@euro-fh.de"
+  },
+  {
+    "name": "Europäische Fachhochschule Rhein/Erft",
+    "website": "https://www.eufh.de/",
+    "address": "Kaiserstraße 6\n50321 Brühl",
+    "email": "info@eufh.de"
+  },
+  {
+    "name": "ESMT Berlin",
+    "website": "https://esmt.berlin/",
+    "address": "Schlossplatz 1\n10178 Berlin",
+    "email": "info@esmt.org"
+  },
+  {
+    "name": "ESCP Europe Wirtschaftshochschule Berlin e.V.",
+    "website": "https://escp.eu/",
+    "address": "Heubnerweg 8-10\n14059 Berlin",
+    "email": "info.de@escpeurope.eu"
+  },
+  {
+    "name": "EBC Hochschule",
+    "website": "https://www.ebc-hochschule.de/",
+    "address": "EBC Euro-Business-College GmbH\nEsplanade 6\n20354 Hamburg",
+    "email": "info@ebc-hochschule.de"
+  },
+  {
+    "name": "Dresden International University",
+    "website": "https://www.di-uni.de/",
+    "address": "DRESDEN INTERNATIONAL UNIVERSITY GmbH\nFreiberger. Str. 37\n01067 Dresden",
+    "email": "info@di-uni.de"
+  },
+  {
+    "name": "Diploma Hochschule",
+    "website": "https://www.diploma.de",
+    "address": "DIPLOMA Private Hochschulgesellschaft mbH\nAm Hegeberg 2\n37242 Bad Sooden-Allendorf",
+    "email": "info@diploma.de"
+  },
+  {
+    "name": "DHGS Deutsche Hochschule für Gesundheit und Sport",
+    "website": "https://www.dhgs-hochschule.d…",
+    "address": "Vulkanstr. 1\n10367 Berlin",
+    "email": "info@dhgs-hochschule.de"
+  },
+  {
+    "name": "Deutsch-Französische Hochschule",
+    "website": "http://www.dfh-ufa.org",
+    "address": "Postfach 10 07 62\n66007 Saarbrücken",
+    "email": "info@dfh-ufa.org"
+  },
+  {
+    "name": "design akademie berlin",
+    "website": "https://www.design-akademie-b…",
+    "address": "Prinzenstr. 84.1\n10969 Berlin",
+    "email": "info@design-akademie-berlin.de"
+  },
+  {
+    "name": "CVJM-Hochschule (Kassel)",
+    "website": "https://www.cvjm-hochschule.d…",
+    "address": "CVJM-Hochschule\nHugo-Preuß-Straße 40\n34131 Kassel-Bad Wilhelmshöhe",
+    "email": "info@cvjm-hochschule.de"
+  },
+  {
+    "name": "Cologne Business School",
+    "website": "https://cbs.de/",
+    "address": "Hardefuststr. 1\n50677 Köln",
+    "email": "study@cbs.de"
+  },
+  {
+    "name": "Bucerius Law School",
+    "website": "https://www.law-school.de/",
+    "address": "Jungiusstraße 6\n20355 Hamburg",
+    "email": "info@law-school.de"
+  },
+  {
+    "name": "bbw Hochschule",
+    "website": "https://www.bbw-hochschule.de/",
+    "address": "Leibnizstraße 11-13\n10625 Berlin",
+    "email": "info@bbw-hochschule.de"
+  },
+  {
+    "name": "Barenboim Said Akademie Berlin",
+    "website": "https://barenboimsaid.de",
+    "address": "Barenboim-Said Akademie gGmbH\nFranzösische Straße 33 D\n10117 Berlin, Germany",
+    "email": "info@barenboimsaid.de"
+  },
+  {
+    "name": "Barenboim-Said Akademie",
+    "website": "https://barenboimsaid.de/",
+    "address": "Französische Straße 33 D\n10117 Berlin",
+    "email": ""
+  },
+  {
+    "name": "Bard College Berlin",
+    "website": "https://berlin.bard.edu/",
+    "address": "Platanenstrasse 24\n13156 Berlin",
+    "email": "communications@berlin.bard.edu"
+  },
+  {
+    "name": "APOLLON Hochschule der Gesundheitswirtschaft",
+    "website": "https://www.apollon-hochschul…",
+    "address": "APOLLON Hochschule\nder Gesundheitswirtschaft GmbH\nUniversitätsallee 18\n28359 Bremen",
+    "email": ""
+  },
+  {
+    "name": "Alanus Hochschule für Kunst und Gesellschaft",
+    "website": "https://www.alanus.edu/",
+    "address": "Villestraße 3\n53347 Alfter",
+    "email": "info@alanus.edu"
+  },
+  {
+    "name": "Akkon Hochschule für Humanwissenschaften",
+    "website": "https://www.akkon-hochschule.…",
+    "address": "Colditzstraße 34-36\n12099 Berlin",
+    "email": "info@akkon-hochschule.de"
+  },
+  {
+    "name": "Akademie für Darstellende Kunst Baden-Württemberg GmbH",
+    "website": "http://www.adk-bw.de",
+    "address": "Akademiehof 1\n71638 Ludwigsburg",
+    "email": "info@adk-bw.de"
+  },
+  {
+    "name": "accadis Hochschule Bad Homburg (AHBH)",
+    "website": "https://www.accadis.com/",
+    "address": "accadis Hochschule Bad Homburg\nPostfach 1101\n61281 Bad Homburg",
+    "email": "info@accadis.com"
+  },
+  {
+    "name": "Hochschule Magdeburg-Stendal",
+    "website": "http://www.hs-magdeburg.de",
+    "address": "Breitscheidstraße 2 39114 Magdeburg",
+    "email": "pressestelle@hs-magdeburg.de"
+  },
+  {
+    "name": "Kunstakademie Düsseldorf",
+    "website": "http://www.kunstakademie-dues…",
+    "address": "Eiskellerstraße 1 40213 Düsseldorf",
+    "email": "poststelle@kunstakademie-duesseldorf.de"
+  },
+  {
+    "name": "HHL Leipzig Graduate School of Management",
+    "website": "https://www.hhl.de",
+    "address": "HHL gGmbH\nJahnallee 59\n04109 Leipzig\nDeutschland",
+    "email": "info@hhl.de"
+  },
+  {
+    "name": "Fachhochschule für Rechtspflege NRW Postfach",
+    "website": "http://www.fhr.nrw.de/",
+    "address": "Fachhochschule für Rechtspflege NRW Postfach\n53895 Bad Münstereifel",
+    "email": "poststelle@fhr.nrw.de"
+  },
+  {
+    "name": "Frankfurt School of Finance & Management",
+    "website": "https://www.frankfurt-school.…",
+    "address": "Adickesallee 32-34\n60322 Frankfurt am Main",
+    "email": "info@frankfurt-school.de"
+  },
+  {
+    "name": "Fachhochschule für Rechtspflege NRW Nebenstelle Monschau",
+    "website": "http://www.fhr.nrw.de/",
+    "address": "Fachhochschule für Rechtspflege NRW Nebenstelle Monschau\nWalter-Schreibler-Str. 4-8\n52156 Monschau",
+    "email": "poststelle@fhr.nrw.de"
+  },
+  {
+    "name": "Nordakademie",
+    "website": "https://www.nordakademie.de/",
+    "address": "NORDAKADEMIE gemeinnützige Aktiengesellschaft Hochschule der Wirtschaft\nKöllner Chaussee 11\n25337 Elmshorn",
+    "email": "info@nordakademie.de"
+  },
+  {
+    "name": "Hochschule für Öffentliche Verwaltung Bremen",
+    "website": "http://www.hfoev-bremen.de",
+    "address": "Doventorscontrescarpe 172c\n28195 Bremen",
+    "email": "office@hfoev.bremen.de"
+  },
+  {
+    "name": "Hochschule Mainz",
+    "website": "http://www.hs-mainz.de",
+    "address": "Lucy-Hillebrand-Straße 2 55128 Mainz",
+    "email": "kontakt@hs-mainz.de"
+  },
+  {
+    "name": "Hochschule Ansbach (HAH)",
+    "website": "https://www.hs-ansbach.de",
+    "address": "Hochschule für angewandte Wissenschaften Ansbach\nResidenzstraße 8\n91522 Ansbach",
+    "email": "info@hs-ansbach.de"
+  },
+  {
+    "name": "Hochschule Furtwangen",
+    "website": "",
+    "address": "",
+    "email": "info@hs-furtwangen.de"
+  },
+  {
+    "name": "Rheinisch-Westfälische Technische Hochschule Aachen",
+    "website": "http://www.rwth-aachen.de",
+    "address": "Templergraben 55 52062 Aachen",
+    "email": "impressum@rwth-aachen.de"
+  },
+  {
+    "name": "Hochschule für öffentliche Verwaltung Kehl",
+    "website": "http://www.hs-kehl.de",
+    "address": "Kinzigallee 1\n77694 Kehl",
+    "email": "post@hs-kehl.de"
+  },
+  {
+    "name": "SRH Hochschule für Logistik und Wirtschaft",
+    "website": "https://www.fh-hamm.de",
+    "address": "SRH Hochschule Hamm\nSRH University of Applied Sciences Hamm\nPlatz der Deutschen Einheit 1\n59065 Hamm",
+    "email": "stefan.geissler@srh.de"
+  },
+  {
+    "name": "Fachhochschule Koblenz",
+    "website": "http://www.hs-koblenz.de/",
+    "address": "56075 Koblenz, Konrad-Zuse-Straße 1",
+    "email": "infos@fh-koblenz.de"
+  },
+  {
+    "name": "Westsächsische Hochschule Zwickau (FH)",
+    "website": "http://www.fh-zwickau.de",
+    "address": "Dr.-Friedrichs-Ring 2a, 08056 Zwickau ,",
+    "email": "webmaster@fh-zwickau.de"
+  },
+  {
+    "name": "Hessische Hochschule für Polizei und Verwaltung",
+    "website": "https://www.hfpv.de",
+    "address": "Hessische Hochschule für Polizei und Verwaltung (HfPV)\nUniversity of Applied Sciences\nRektorat\nSchönbergstraße 100\n65199 Wiesbaden",
+    "email": "rektorat@hfpv-hessen.de"
+  },
+  {
+    "name": "Hochschule der Sparkassen-Finanzgruppe",
+    "website": "https://www.s-hochschule.de/",
+    "address": "Simrockstraße 4\n53113 Bonn",
+    "email": "info@s-hochschule.de"
+  },
+  {
+    "name": "Fachhochschule der Sächsischen Verwaltung",
+    "website": "https://www.fhsv.sachsen.de/",
+    "address": "Postfach ,229, 01657 Meißen",
+    "email": "poststelle@fhsv.sachsen.de"
+  },
+  {
+    "name": "Staatliche Hochschule für Musik Trossingen",
+    "website": "http://www.mh-trossingen.de",
+    "address": "Schultheiß-Koch-Platz 3\n78647 Trossingen",
+    "email": "rektorat@mh-trossingen.de"
+  },
+  {
+    "name": "Hochschule der bildenden Künste Essen",
+    "website": "https://www.hbk-essen.de",
+    "address": "Prinz-Friedrich-Str. 28 A\n45257 Essen",
+    "email": "mail@hbk-essen.de"
+  },
+  {
+    "name": "Hochschule Landshut",
+    "website": "https://www.haw-landshut.de",
+    "address": "Hochschule für angewandte Wissenschaften Landshut\nAm Lurzenhof 1\n 84036 Landshut",
+    "email": "info@haw-landshut.de"
+  },
+  {
+    "name": "Hochschule Konstanz - Hochschule für Technik, Wirtschaft und Gestaltung",
+    "website": "http://www.hs-konstanz.de",
+    "address": "Brauneggerstraße 55\n78462 Konstanz",
+    "email": "kontakt@htwg-konstanz.de"
+  },
+  {
+    "name": "Leuphana Universität Lüneburg",
+    "website": "https://www.leuphana.de",
+    "address": "Leuphana Universität Lüneburg\nUniversitätsallee 1\n21335 Lüneburg",
+    "email": "kontakt@leuphana.de"
+  },
+  {
+    "name": "Hochschule für Bildende Künste Braunschweig",
+    "website": "http://www.hbk-bs.de/",
+    "address": "Johannes-Selenka-Platz 1\n38118 Braunschweig",
+    "email": "info@hbk-bs.de"
+  },
+  {
+    "name": "MSB Medical School Berlin",
+    "website": "https://www.medicalschool-ber…",
+    "address": "Calandrellistraße 1-9\n12247 Berlin",
+    "email": "info@medicalschool-berlin.de"
+  },
+  {
+    "name": "Deutsche Universität für Verwaltungswissenschaften Speyer",
+    "website": "https://www.uni-speyer.de/",
+    "address": "Freiherr-vom-Stein-Straße 2\n67346 Speyer",
+    "email": "rektorat@uni-speyer.de"
+  },
+  {
+    "name": "Hochschule für Technik, Wirtschaft und Kultur Leipzig",
+    "website": "https://www.htwk-leipzig.de",
+    "address": "HTWK Leipzig\nKarl-Liebknecht-Str. 132\n04277 Leipzig",
+    "email": "poststelle@htwk-leipzig.de"
+  },
+  {
+    "name": "Hochschule für evangelische Kirchenmusik Bayreuth (HEKM)",
+    "website": "https://www.hfk-bayreuth.de/",
+    "address": "Hochschule und Institut für evangelische Kirchenmusik Bayreuth\nWilhelminenstr. 9\nD-95444 Bayreuth",
+    "email": "verwaltung@hfk-bayreuth.de"
+  },
+  {
+    "name": "Katholische Stiftungshochschule für angewandte Wissenschaften",
+    "website": "https://www.ksh-muenchen.de/",
+    "address": "Katholische Stiftungshochschule für angewandte Wissenschaften München\nPreysingstr. 83\n81667 München",
+    "email": ""
+  },
+  {
+    "name": "Freie Theologische Hochschule Gießen",
+    "website": "https://www.fthgiessen.de/",
+    "address": "Förderverein für evangelikale Theologie und Ausbildung (FTA) e.V.\nRathenaustr. 5-7\n35394 Gießen",
+    "email": "info@fthgiessen.de"
+  },
+  {
+    "name": "Hochschule der Bildenden Künste Saar",
+    "website": "http://www.hbksaar.de/",
+    "address": "Keplerstraße 3-5\n66117 Saarbrücken",
+    "email": "info@hbksaar.de"
+  },
+  {
+    "name": "Fachhochschule Bielefeld",
+    "website": "http://www.fh-bielefeld.de",
+    "address": "Kurt-Schumacher-Straße 6 33615 Bielefeld",
+    "email": "info@fh-bielefeld.de"
+  },
+  {
+    "name": "SRH Hochschule Heidelberg",
+    "website": "https://www.hochschule-heidel…",
+    "address": "SRH Hochschule Heidelberg\nStaatlich anerkannte Hochschule\nLudwig-Guttmann-Straße 6\n69123 Heidelberg",
+    "email": "info@hochschule-heidelberg.de"
+  },
+  {
+    "name": "Evangelische Hochschule für Kirchenmusik Halle (Saale)",
+    "website": "https://www.ehk-halle.de/",
+    "address": "Kleine Ulrichstraße 35\n06108 Halle (Saale)",
+    "email": "sekretariat@ehk-halle.de"
+  },
+  {
+    "name": "Hochschule Weihenstephan-Triesdorf",
+    "website": "https://www.hswt.de",
+    "address": "Hochschule Weihenstephan-Triesdorf\nAm Hofgarten 4\n85354 Freising",
+    "email": "praesident@hswt.de"
+  },
+  {
+    "name": "Pädagogisches Fachseminar Kirchheim u. T.",
+    "website": "http://www.seminar-kirchheim-…",
+    "address": "Postfach 140173222 Kirchheim unter Teck",
+    "email": "poststelle@fachseminar-kih.kv.bwl.de"
+  },
+  {
+    "name": "Evangelische Hochschule Nürnberg",
+    "website": "https://www.evhn.de/",
+    "address": "Bärenschanzstraße 4\n90429 Nürnberg",
+    "email": "zentrale@evhn.de"
+  },
+  {
+    "name": "AKAD Bildungsgesellschaft",
+    "website": "https://www.akad.de",
+    "address": "AKAD Bildungsgesellschaft mbH\nHeilbronner Straße 86\n70191 Stuttgart",
+    "email": "beratung@akad.de"
+  },
+  {
+    "name": "Technische Hochschule Rosenheim",
+    "website": "https://www.th-rosenheim.de/",
+    "address": "Technische Hochschule Rosenheim\nHochschulstraße 1\n83024 Rosenheim\nDeutschland",
+    "email": "info@th-rosenheim.de"
+  },
+  {
+    "name": "Hochschule Heilbronn - Hochschule für Technik, Wirtschaft und Informatik",
+    "website": "https://www.hs-heilbronn.de",
+    "address": "Max-Planck-Straße 39\n74081 Heilbronn",
+    "email": "info@hs-heilbronn.de"
+  },
+  {
+    "name": "Pädagogische Hochschule Schwäbisch Gmünd",
+    "website": "http://www.ph-gmuend.de",
+    "address": "Oberbettringer Straße 200\n73525 Schwäb.Gmünd",
+    "email": "info@ph-gmuend.de"
+  },
+  {
+    "name": "Augustana-Hochschule Neuendettelsau",
+    "website": "https://augustana.de",
+    "address": "Augustana-Hochschule\nWaldstraße 11\n91564 Neuendettelsau",
+    "email": "hochschule@augustana.de"
+  },
+  {
+    "name": "Evangelische Hochschule Rheinland-Westfalen-Lippe",
+    "website": "https://www.evh-bochum.de/",
+    "address": "Immanuel-Kant-Str. 18 - 20\n44803 Bochum",
+    "email": "evh@evh-bochum.de"
+  },
+  {
+    "name": "Fachhochschule für Verwaltung und Dienstleistung",
+    "website": "http://www.fhvd-sh.de/",
+    "address": "Rehmkamp 10\n24161 Altenholz",
+    "email": "Leitung@AZV-sh.de"
+  },
+  {
+    "name": "Rheinische Fachhochschule Köln",
+    "website": "https://www.rfh-koeln.de/",
+    "address": "Rheinische Fachhochschule Köln gGmbH\nvertreten durch ihre Geschäftsführer:\nProf. Dr. Martin Wortmann und Thore Eggert\nSchaevenstr. 1 a - b\n50676 Köln",
+    "email": "info@rfh-koeln.de"
+  },
+  {
+    "name": "Pädagogisches Fachseminar Karlsruhe",
+    "website": "http://www.pfs-ka.de",
+    "address": "Hertzstr. 16 Gebäude 40, 76187 Karlsruhe",
+    "email": "poststelle@fachseminar-ka.kv.bwl.de"
+  },
+  {
+    "name": "Staatliche Hochschule für Musik Freiburg",
+    "website": "https://www.mh-freiburg.de",
+    "address": "Schwarzwaldstraße 141\n79102 Freiburg",
+    "email": "kontakt@mh-freiburg.de"
+  },
+  {
+    "name": "International School of Management",
+    "website": "https://www.ism.de/campus/dor…",
+    "address": "International School of Management (ISM)\nTechnologiepark - Otto-Hahn-Straße 19\n44227 Dortmund",
+    "email": "ism.dortmund@ism.de"
+  },
+  {
+    "name": "International Psychoanalytic University Berlin",
+    "website": "https://www.ipu-berlin.de/",
+    "address": "Stromstr. 1\n10555 Berlin",
+    "email": "info@ipu-berlin.de"
+  },
+  {
+    "name": "Muthesius Kunsthochschule",
+    "website": "http://www.muthesius-kunsthoc…",
+    "address": "Legienstraße 35 24103 Kiel",
+    "email": "presse@muthesius.de"
+  },
+  {
+    "name": "Hochschule für Wirtschaft und Recht Berlin",
+    "website": "http://www.hwr-berlin.de/",
+    "address": "",
+    "email": "internetredaktion@hwr-berlin.de"
+  },
+  {
+    "name": "Evangelische Hochschule Freiburg",
+    "website": "https://www.eh-freiburg.de/",
+    "address": "Bugginger Strasse 38\n79114 Freiburg",
+    "email": "kirchhoff@eh-freiburg.de"
+  },
+  {
+    "name": "Cusanus Hochschule für Gesellschaftsgestaltung",
+    "website": "https://www.cusanus-hochschul…",
+    "address": "Mandatstraße 1\n54470 Bernkastel-Kues",
+    "email": "info@cusanus-hochschule.de"
+  },
+  {
+    "name": "Hessische Hochschule für Finanzen und Rechtspflege",
+    "website": "https://studienzentrum-rotenb…",
+    "address": "Josef-Durstewitz-Str. 2-6\n36199 Rotenburg",
+    "email": "poststelle@szrof.hessen.de"
+  },
+  {
+    "name": "Landesfinanzschule Hessen",
+    "website": "https://studienzentrum-rotenb…",
+    "address": "",
+    "email": "poststelle@szrof.hessen.de"
+  },
+  {
+    "name": "Hochschule für Angewandte Wissenschaften Hamburg",
+    "website": "http://www.haw-hamburg.de/",
+    "address": "HAW Hamburg\nBerliner Tor 5\n20099 Hamburg",
+    "email": "web@haw-hamburg.de"
+  },
+  {
+    "name": "Hochschule für Nachhaltige Entwicklung Eberswalde (FH)",
+    "website": "http://www.hnee.de",
+    "address": "Schicklerstr. 5 16225 Eberswalde",
+    "email": "studieren@hnee.de"
+  },
+  {
+    "name": "Pädagogische Hochschule Weingarten",
+    "website": "http://www.ph-weingarten.de",
+    "address": "Kirchplatz 2\n88250 Weingarten",
+    "email": "poststelle@ph-weingarten.de"
+  },
+  {
+    "name": "Katholische Universität Eichstätt-Ingolstadt",
+    "website": "https://www.ku.de/",
+    "address": "Katholische Universität\nEichstätt-Ingolstadt\n85071 Eichstätt",
+    "email": "info@ku.de"
+  },
+  {
+    "name": "Philosophisch-Theologische Hochschule SVD St. Augustin",
+    "website": "https://www.khkt.de/",
+    "address": "Kölner Hochschule für Katholische Theologie (KHKT) – St. Augustin\nArnold-Janssen-Str. 30\n53757 Sankt Augustin",
+    "email": "mail@khkt.de"
+  },
+  {
+    "name": "Technische Hochschule Bingen",
+    "website": "https://www.th-bingen.de/home/",
+    "address": "55411 Bingen am Rhein, Berlinstraße 109",
+    "email": "datenschutz@th-bingen.de"
+  },
+  {
+    "name": "Fachhochschule Dortmund",
+    "website": "http://www.fh-dortmund.de",
+    "address": "Sonnenstraße 96 44139 Dortmund",
+    "email": "pressestelle@fh-dortmund.de"
+  },
+  {
+    "name": "Universität Witten/Herdecke",
+    "website": "https://www.uni-wh.de",
+    "address": "Private Universität Witten/Herdecke gGmbH\nAlfred-Herrhausen-Straße 50\n58448 Witten\nDeutschland",
+    "email": "public@uni-wh.de"
+  },
+  {
+    "name": "Staatliche Akademie der bildenden Künste Stuttgart",
+    "website": "http://www.abk-stuttgart.de",
+    "address": "Am Weissenhof 1\n70191 Stuttgart",
+    "email": "info@abk-stuttgart.de"
+  },
+  {
+    "name": "Hochschule für angewandte Pädagogik",
+    "website": "https://www.hsap.de/",
+    "address": "Ostendstraße 1\n12459 Berlin",
+    "email": "info@hsap.de"
+  },
+  {
+    "name": "Hochschule für Musik \"Hanns Eisler\"",
+    "website": "http://www.hfm-berlin.de/",
+    "address": "",
+    "email": "presse@hfm-berlin.de"
+  },
+  {
+    "name": "Akademie der Bildenden Künste Nürnberg",
+    "website": "https://adbk-nuernberg.de/",
+    "address": "Akademie der Bildenden Künste Nürnberg\nBingstr. 60\n90480 Nürnberg",
+    "email": "info@adbk-nuernberg.de"
+  },
+  {
+    "name": "Fachhochschule Westküste, Hochschule für Wirtschaft und Technik",
+    "website": "http://www.fh-westkueste.de",
+    "address": "Fritz-Thiedemann-Ring 20 25746 Heide",
+    "email": "praesidium@fh-westkueste.de"
+  },
+  {
+    "name": "Hochschule Bonn-Rhein-Sieg, University of Applied Sciences",
+    "website": "http://www.h-brs.de",
+    "address": "Grantham-Allee 20 53757 Sankt Augustin",
+    "email": "daniela.greulich@h-brs.de"
+  },
+  {
+    "name": "Hochschule für Polizei Baden-Württemberg",
+    "website": "https://www.hfpol-bw.de/",
+    "address": "Sturmbühlstraße 250\n78054 Villingen-Schwenningen",
+    "email": "info@hfpol-bw.de"
+  },
+  {
+    "name": "EBS Universität für Wirtschaft und Recht",
+    "website": "https://www.ebs.edu",
+    "address": "EBS Universität für Wirtschaft und Recht gGmbH\nGustav-Stresemann-Ring 3\n65189 Wiesbaden",
+    "email": "info@ebs.edu"
+  },
+  {
+    "name": "MSH Medical School Hamburg",
+    "website": "https://www.medicalschool-ham…",
+    "address": "MSH Medical School Hamburg – University of Applied Sciences and Medical University\nAm Kaiserkai 1\n20457 Hamburg",
+    "email": "info@medicalschool-hamburg.de"
+  },
+  {
+    "name": "Kommunale Hochschule für Verwaltung in Niedersachsen",
+    "website": "https://www.nsi-hsvn.de/",
+    "address": "Niedersächsisches Studieninstitut für kommunale Verwaltung e.V.\nWielandstr. 8\n30169 Hannover",
+    "email": "info@nsi-hsvn.de"
+  },
+  {
+    "name": "Brand University of Applied Sciences",
+    "website": "https://www.brand-university.…",
+    "address": "Rainvilleterrasse 4\nD-22765 Hamburg",
+    "email": "info@brand-university.de"
+  },
+  {
+    "name": "Hochschule Pforzheim",
+    "website": "http://www.hs-pforzheim.de",
+    "address": "Tiefenbronnerstraße 65\n75175 Pforzheim",
+    "email": "info@hs-pforzheim.de"
+  },
+  {
+    "name": "Burg Giebichenstein Kunsthochschule Halle",
+    "website": "http://www.burg-halle.de",
+    "address": "Neuwerk 7 6108 Halle",
+    "email": "burgpost@burg-halle.de"
+  },
+  {
+    "name": "Hochschule Neubrandenburg - University of Applied Sciences",
+    "website": "https://www.hs-nb.de",
+    "address": "Brodaer Straße 2\n17033 Neubrandenburg",
+    "email": "rektor@hs-nb.de"
+  },
+  {
+    "name": "uni-assist e.V.",
+    "website": "http://www.uni-assist.de/",
+    "address": "uni-assist e.V.\nGeneststraße 5\n10829 Berlin",
+    "email": "pressestelle@uni-assist.de"
+  },
+  {
+    "name": "Hochschule Düsseldorf",
+    "website": "http://www.hs-duesseldorf.de/",
+    "address": "Hochschule Düsseldorf\nUniversity of Applied Sciences\nMünsterstraße 156\n40476 Düsseldorf",
+    "email": "praesidentin@hs-duesseldorf.de"
+  },
+  {
+    "name": "Fachhochschule für öffentliche Verwaltung - Fachbereich Polizei",
+    "website": "",
+    "address": "55483 Hahn, Flughafen Hahn",
+    "email": "HdP.Presse@polizei.rlp.de"
+  },
+  {
+    "name": "Hochschule Flensburg",
+    "website": "https://hs-flensburg.de/",
+    "address": "Kanzleistraße 91-93 24943 Flensburg",
+    "email": "presse@hs-flensburg.de"
+  },
+  {
+    "name": "Palucca Hochschule für Tanz Dresden",
+    "website": "https://www.palucca.eu/",
+    "address": "Palucca Hochschule für Tanz Dresden\nBasteiplatz 4\n01277 Dresden",
+    "email": "info@palucca.eu"
+  },
+  {
+    "name": "Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen",
+    "website": "https://www.hawk.de",
+    "address": "Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen\nHohnsen 4\n31134 Hildesheim",
+    "email": "datenschutz@hawk.de"
+  },
+  {
+    "name": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+    "website": "http://www.uni-bonn.de",
+    "address": "Regina-Pacis-Weg 3 53113 Bonn",
+    "email": "kommunikation@uni-bonn.de"
+  },
+  {
+    "name": "Kunsthochschule Berlin (Weißensee)",
+    "website": "http://www.kh-berlin.de/",
+    "address": "",
+    "email": "sekretariat.rektorin@kh-berlin.de"
+  },
+  {
+    "name": "Hochschule Hamm-Lippstadt",
+    "website": "http://www.hshl.de",
+    "address": "Marker Allee 76-78\n59063 Hamm",
+    "email": "presse@hshl.de"
+  },
+  {
+    "name": "Allensbach Hochschule (ABHS)",
+    "website": "https://www.allensbach-hochsc…",
+    "address": "Allensbach Hochschule\nLohnerhofstrasse 2\n78467 Konstanz",
+    "email": "kanzler@allensbach-hochschule.de"
+  },
+  {
+    "name": "Duale Hochschule Schleswig-Holstein",
+    "website": "https://www.dhsh.de/",
+    "address": "Wirtschaftsakademie Schleswig-Holstein GmbH\nHans-Detlev-Prien-Str. 10\n24106 Kiel",
+    "email": "info@wak-sh.de"
+  },
+  {
+    "name": "IB Hochschule für Gesundheit und Soziales",
+    "website": "https://www.ib-hochschule.de/",
+    "address": "Gerichtstraße 27\n13347 Berlin",
+    "email": "info@ib-hochschule.de"
+  },
+  {
+    "name": "Hochschule für Musik -Carl Maria von Weber - Dresden",
+    "website": "http://www.hfmdd.de",
+    "address": "Wettiner Platz 13, 01067 Dresden ,",
+    "email": "rektorat@hfmdd.de"
+  },
+  {
+    "name": "Hochschule Schmalkalden",
+    "website": "https://www.hs-schmalkalden.d…",
+    "address": "Blechhammer\n98574 Schmalkalden",
+    "email": "info@hs-schmalkalden.de"
+  },
+  {
+    "name": "AStA HS Koblenz",
+    "website": "http://www.asta-koblenz.com",
+    "address": "Konrad-Zuse-Straße 1\n56075 Koblenz",
+    "email": "asta@hs-koblenz.de"
+  },
+  {
+    "name": "Hochschule Ruhr West- University of Applied Sciences",
+    "website": "http://www.hochschule-ruhr-we…",
+    "address": "Mellinghoferstraße 55 45473 Mülheim",
+    "email": "info@hs-ruhrwest.de"
+  },
+  {
+    "name": "Hochschule der Wirtschaft für Management",
+    "website": "https://www.hdwm.de/",
+    "address": "Hochschule der Wirtschaft für Management gGmbH\nOskar-Meixner-Str. 4-6\n68163 Mannheim",
+    "email": "info@hdwm.org"
+  },
+  {
+    "name": "Hochschule Nordhausen",
+    "website": "http://www.hs-nordhausen.de",
+    "address": "Weinberghof 4 99734 Nordhausen",
+    "email": "info@hs-nordhausen.de"
+  },
+  {
+    "name": "Hochschule Hof",
+    "website": "https://www.hof-university.de/",
+    "address": "Alfons-Goppel-Platz 1\n95028 Hof",
+    "email": "mail@hof-university.de"
+  },
+  {
+    "name": "Robert-Schumann-Hochschule Düsseldorf",
+    "website": "http://www.rsh-duesseldorf.de",
+    "address": "Fischerstraße 110 40476 Düsseldorf",
+    "email": "achim.polzer@rsh-duesseldorf.de"
+  },
+  {
+    "name": "Pädagogisches Fachseminar Schwäbisch Gmünd",
+    "website": "http://www.seminar-schwaebisc…",
+    "address": "Oberbettringer Str. 200 Bau B, 73525 Schwäbisch Gmünd",
+    "email": "poststelle@fachseminar-gd.kv.bwl.de"
+  },
+  {
+    "name": "Technische Universität Braunschweig",
+    "website": "https://www.tu-braunschweig.d…",
+    "address": "Technische Universität Braunschweig\nUniversitätsplatz 2\n38106 Braunschweig",
+    "email": "webredaktion@tu-braunschweig.de"
+  },
+  {
+    "name": "Kirchliche Hochschule Wuppertal/Bethel",
+    "website": "https://www.kiho-wb.de/",
+    "address": "Kirchliche Hochschule Wuppertal/Bethel\nHochschule für Kirche und Diakonie\n\nCampus Wuppertal\nMissionsstraße 9a/b\nD-42285 Wuppertal",
+    "email": "info@kiho-wb.de"
+  },
+  {
+    "name": "Hochschule der Bayerischen Wirtschaft (HDBW)",
+    "website": "https://www.hdbw-hochschule.d…",
+    "address": "Hochschule der Bayerischen Wirtschaft (HDBW) gemeinnützige GmbH\nInfanteriestraße 8\n80797 München",
+    "email": "info@hdbw-hochschule.de"
+  },
+  {
+    "name": "Akademie der Künste",
+    "website": "http://www.adk.de/",
+    "address": "Pariser Platz 4\n10117 Berlin, Berlin\nDeutschland\n",
+    "email": "info@adk.de"
+  },
+  {
+    "name": "Kunsthochschule für Medien Köln",
+    "website": "http://www.khm.de",
+    "address": "Peter-Welter-Platz 2 50676 Köln",
+    "email": "studoffice@khm.de"
+  },
+  {
+    "name": "Hochschule für Wirtschaft und Umwelt Nürtingen-Geislingen",
+    "website": "https://www.hfwu.de",
+    "address": "Hochschule für Wirtschaft und Umwelt Nürtingen-Geislingen (HfWU)\nPostfach 1349\n72603 Nürtingen",
+    "email": "info@hfwu.de"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg (Stuttgart)",
+    "website": "https://www.dhbw-stuttgart.de…",
+    "address": "Jägerstraße 56\n70174 Stuttgart",
+    "email": "info@dhbw-stuttgart.de"
+  },
+  {
+    "name": "Hochschule für Forstwirtschaft Rottenburg",
+    "website": "http://www.fh-rottenburg.de",
+    "address": "Schadenweilerhof, 72108 Rottenburg",
+    "email": "hfr@hs-rottenburg.de"
+  },
+  {
+    "name": "Fachhochschule Aachen",
+    "website": "http://www.fh-aachen.de",
+    "address": "Bayernallee 11\n52066 Aachen",
+    "email": "ifg@fh-aachen.de"
+  },
+  {
+    "name": "media Akademie - Hochschule Stuttgart",
+    "website": "https://www.media-hs.de/",
+    "address": "mAHS, media Akademie – Hochschule Stuttgart\nTübinger Straße 12-16\n70178 Stuttgart",
+    "email": "info@media-hs.de"
+  },
+  {
+    "name": "Hochschule für angewandte Wissenschaften Coburg",
+    "website": "https://www.hs-coburg.de",
+    "address": "Hochschule für angewandte Wissenschaften Coburg\nFriedrich-Streib-Straße 2\n96450 Coburg",
+    "email": "poststelle@hs-coburg.de"
+  },
+  {
+    "name": "Pädagogische Hochschule Freiburg",
+    "website": "https://www.ph-freiburg.de",
+    "address": "Kunzenweg 21\n79117 Freiburg",
+    "email": "poststelle@ph-freiburg.de"
+  },
+  {
+    "name": "Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg",
+    "website": "https://www.hs-ludwigsburg.de",
+    "address": "Reuteallee 36\n71634 Ludwigsburg",
+    "email": "poststelle@hs-ludwigsburg.de"
+  },
+  {
+    "name": "Fachhochschule für Interkulturelle Theologie (Hermannsburg)",
+    "website": "https://www.fh-hermannsburg.d…",
+    "address": "Evangelische Medienarbeit | EMA\nPastor Kay Oppermann\nDigitale Agentur, Leitung\nArchivstr. 3\n30169 Hannover",
+    "email": "w.richebaecher@fh-hermannsburg.de"
+  },
+  {
+    "name": "Pädagogische Hochschule Ludwigsburg",
+    "website": "http://www.ph-ludwigsburg.de",
+    "address": "Reuteallee 46\n71634 Ludwigsburg",
+    "email": "rektorat@ph-ludwigsburg.de"
+  },
+  {
+    "name": "Pädagogische Hochschule Heidelberg",
+    "website": "http://www.ph-heidelberg.de",
+    "address": "Keplerstraße 87\n69120 Heidelberg",
+    "email": "info@ph-heidelberg.de"
+  },
+  {
+    "name": "Katholische Hochschule für Kirchenmusik Rottenburg",
+    "website": "https://www.kirchenmusik-hoch…",
+    "address": "Hochschule für Kirchenmusik der Diözese Rottenburg-Stuttgart,\nSt.-Meinrad-Weg 6\n72101 Rottenburg a.N.",
+    "email": "hfk-rottenburg@bo.drs.de"
+  },
+  {
+    "name": "Hochschule für Musik und Tanz Köln",
+    "website": "http://www.hfmt-koeln.de",
+    "address": "Unter Krahnenbäumen 87 50668 Köln",
+    "email": "webmaster@hfmt-koeln.de"
+  },
+  {
+    "name": "Hochschule RheinMain",
+    "website": "http://www.hs-rm.de",
+    "address": "Kurt-Schumacher-Ring 18 DE 65197 Wiesbaden",
+    "email": "praesident@hs-rm.de"
+  },
+  {
+    "name": "Fachhochschule Worms",
+    "website": "http://www.fh-worms.de/",
+    "address": "67549 Worms, Erenburgerstraße 19",
+    "email": "kontakt@fh-worms.de"
+  },
+  {
+    "name": "Hochschule Worms, University of Applied Sciences",
+    "website": "http://www.hs-worms.de",
+    "address": "Erenburgerstr. 19 67549 Worms",
+    "email": "kontakt@hs-worms.de"
+  },
+  {
+    "name": "Hochschule Esslingen - Technik und Sozialwesen",
+    "website": "http://www.hs-esslingen.de",
+    "address": "Kanalstraße 33\n73728 Esslingen",
+    "email": "info@hs-esslingen.de"
+  },
+  {
+    "name": "Technische Hochschule Ulm",
+    "website": "http://www.hs-ulm.de",
+    "address": "Prittwitzstraße 10\n89075 Ulm",
+    "email": "rektorat@thu.de"
+  },
+  {
+    "name": "Staatliche Hochschule für Musik und Darstellende Kunst Mannheim",
+    "website": "http://www.muho-mannheim.de",
+    "address": "N 7 18\n68161 Mannheim",
+    "email": "praesidium@muho-mannheim.de"
+  },
+  {
+    "name": "Hochschule für Kirchenmusik Heidelberg",
+    "website": "https://www.hfk-heidelberg.de/",
+    "address": "Hochschule für Kirchenmusik der Evangelischen Landeskirche in Baden\nHildastr. 8\n69115 Heidelberg",
+    "email": "sekretariat@hfk-heidelberg.de"
+  },
+  {
+    "name": "Fachhochschule Schmalkalden",
+    "website": "http://www.fh-schmalkalden.de",
+    "address": "Blechhammer 98574 Schmalkalden",
+    "email": "info@fh-schmalkalden.de"
+  },
+  {
+    "name": "Hochschule Emden/Leer",
+    "website": "https://www.hs-emden-leer.de/",
+    "address": "Hochschule Emden/Leer\nConstantiaplatz 4\n26723 Emden",
+    "email": "info@hs-emden-leer.de"
+  },
+  {
+    "name": "Hochschule für Musik Franz Liszt Weimar",
+    "website": "http://www.hfm-weimar.de",
+    "address": "Platz der Demokratie 2/3\n99423 Weimar",
+    "email": "kanzlerin@hfm-weimar.de"
+  },
+  {
+    "name": "hochschule 21",
+    "website": "https://www.hs21.de/",
+    "address": "Harburger Straße 6\n21614 Buxtehude",
+    "email": "info@hs21.de"
+  },
+  {
+    "name": "Technische Hochschule Deggendorf",
+    "website": "http://www.th-deg.de",
+    "address": "Edlmairstr. 6 u.8 94469 Deggendorf",
+    "email": "poststelle@th-deg.de"
+  },
+  {
+    "name": "Hochschule für Technik und Wirtschaft des Saarlandes (HTW)",
+    "website": "http://www.htw.uni-sb.de",
+    "address": "Postfach 65 01 34\n66140 Saarbrücken",
+    "email": "info@htw-saarland.de"
+  },
+  {
+    "name": "Deutsche Akkreditierungsstelle GmbH",
+    "website": "http://www.dakks.de/",
+    "address": "Spittelmarkt 10\n10117 Berlin, Berlin\nDeutschland",
+    "email": "kontakt@dakks.de"
+  },
+  {
+    "name": "Hochschule für Musik Detmold",
+    "website": "http://www.hfm-detmold.de/",
+    "address": "Neustadt 22 32756 Detmold",
+    "email": "info@hfm-detmold.de"
+  },
+  {
+    "name": "Duale Hochschule Gera-Eisenach",
+    "website": "https://www.dhge.de/",
+    "address": "Weg der Freundschaft 4\n07546 Gera",
+    "email": "info-gera@dhge.de"
+  },
+  {
+    "name": "Hochschule der Deutschen Bundesbank",
+    "website": "https://www.hochschule-bundes…",
+    "address": "Schloss\n57627 Hachenburg",
+    "email": "info-hdb@bundesbank.de"
+  },
+  {
+    "name": "Ostbayerische Technische Hochschule Regensburg",
+    "website": "https://www.oth-regensburg.de",
+    "address": "Ostbayerische Technische Hochschule Regensburg\nPrüfeninger Str. 58\n93049 Regensburg",
+    "email": "praesident@oth-regensburg.de"
+  },
+  {
+    "name": "Hochschule Bremerhaven",
+    "website": "http://www.hs-bremerhaven.de",
+    "address": "An der Karlstadt 8\n27568 Bremerhaven",
+    "email": "kanzlerin@hs-bremerhaven.de"
+  },
+  {
+    "name": "Fachhochschule Kaiserslautern",
+    "website": "http://www.fh-kl.de/",
+    "address": "67657 Kaiserslautern, Morlauterer Straße 31",
+    "email": ""
+  },
+  {
+    "name": "Hochschule Kaiserslautern (University of Applied Sciences)",
+    "website": "http://www.hs-kl.de",
+    "address": "Morlauterer Straße 31 67657 Kaiserslautern",
+    "email": "presse@hs-kl.de"
+  },
+  {
+    "name": "Hochschule Polizei des Landes Brandenburg",
+    "website": "https://hpolbb.de/datenschutz",
+    "address": "Fachhochschule der Polizei des Landes Brandenburg\nBernauer Straße 146\n16515 Oranienburg\n\nPräsident: Rainer Grieger",
+    "email": "datenschutzbeauftragter@hpolbb.de"
+  },
+  {
+    "name": "Hochschule für Gestaltung Offenbach am Main",
+    "website": "https://www.hfg-offenbach.de/",
+    "address": "Hochschule für Gestaltung Offenbach am Main\n​Schlossstraße 31\n63065 Offenbach am Main",
+    "email": "praesidium@hfg-offenbach.de"
+  },
+  {
+    "name": "Internationale Hochschule Liebenzell",
+    "website": "https://www.ihl.eu/",
+    "address": "IHL – Internationale Hochschule Liebenzell\nEine Einrichtung der Liebenzeller Mission gemeinnützige GmbH\nHeinrich-Coerper-Weg 11\n75378 Bad Liebenzell",
+    "email": "info@ihl.eu"
+  },
+  {
+    "name": "Hochschule Rhein-Waal - University of Applied Sciences",
+    "website": "http://www.hochschule-rhein-w…",
+    "address": "Marie-Curie-Str. 1 47533 Kleve",
+    "email": "info@hochschule-rhein-waal.de"
+  },
+  {
+    "name": "Hochschule des Bundes für öffentliche Verwaltung",
+    "website": "https://www.hsbund.de/",
+    "address": "Willy-Brandt-Straße 1\n50321 Brühl",
+    "email": "postzb@hsbund.de"
+  },
+  {
+    "name": "Hochschule für Technik und Wirtschaft Berlin",
+    "website": "http://www.htw-berlin.de/",
+    "address": "10313 Berlin (Postfach)",
+    "email": "Friederike.Hess@HTW-Berlin.de"
+  },
+  {
+    "name": "Fachhochschule für Finanzen",
+    "website": "http://www.fhf-kw.brandenburg…",
+    "address": "Schillerstraße 6\n15711 Königs Wusterhausen",
+    "email": "afz-kw@fhf.brandenburg.de"
+  },
+  {
+    "name": "Landesfinanzschule Brandenburg",
+    "website": "http://www.lfs-kw.brandenburg…",
+    "address": "Landesfinanzschule Schillerstraße 6\n15711 Königs Wusterhausen",
+    "email": "afz-kw@fhf.brandenburg.de"
+  },
+  {
+    "name": "Fachhochschule Erfurt",
+    "website": "http://www.fh-erfurt.de",
+    "address": "Altonaer Str. 25 DE 99085 Erfurt",
+    "email": "rektorat@fh-erfurt.de"
+  },
+  {
+    "name": "Fachhochschule Schwetzingen",
+    "website": "http://www.fh-schwetzingen.de",
+    "address": "Hochschule für Rechtspflege Schwetzingen\nKarlsruher Straße 2\n68723 Schwetzingen",
+    "email": "poststelle@hfr.justiz.bwl.de"
+  },
+  {
+    "name": "Hochschule Ravensburg-Weingarten",
+    "website": "http://www.hs-weingarten.de",
+    "address": "Doggenriedstraße, 88250 Weingarten",
+    "email": "info@hs-weingarten.de"
+  },
+  {
+    "name": "HfbK Hochschule für bildende Künste Hamburg",
+    "website": "http://www.hfbk-hamburg.de/",
+    "address": "Hochschule für bildende Künste Hamburg\nLerchenfeld 2\n22081 Hamburg",
+    "email": "praesidialbuero@hfbk.hamburg.de"
+  },
+  {
+    "name": "Landesfinanzschule NRW",
+    "website": "http://www.finanzamt.nrw.de/l…",
+    "address": "Landesfinanzschule NRW\nAm Schmalenhof 4\n42369 Wuppertal",
+    "email": "service-5018@fv.nrw.de"
+  },
+  {
+    "name": "Hochschule für Musik und Darstellende Kunst Frankfurt am Main",
+    "website": "https://www.hfmdk-frankfurt.i…",
+    "address": "Eschersheimer Landstraße 29-39\n60322 Frankfurt am Main",
+    "email": "praesident@hfmdk-frankfurt.de"
+  },
+  {
+    "name": "Fachhochschule Lübeck",
+    "website": "http://www.fh-luebeck.de",
+    "address": "Mönkhofer Weg 239 23562 Lübeck",
+    "email": "kontakt@fh-luebeck.de"
+  },
+  {
+    "name": "Technische Hochschule Lübeck",
+    "website": "https://www.th-luebeck.de/",
+    "address": "Technische Hochschule Lübeck\nMönkhofer Weg 239\n23562 Lübeck",
+    "email": "kontakt@th-luebeck.de"
+  },
+  {
+    "name": "Hochschule Fresenius Heidelberg",
+    "website": "https://www.hs-fresenius.de/s…",
+    "address": "Campus – Hochschule Fresenius Heidelberg\nHochschule Fresenius Heidelberg\nSickingenstraße 63-65\n69126 Heidelberg",
+    "email": "studienberatung-heidelberg@hs-fresenius.de"
+  },
+  {
+    "name": "Akademie der Bildenden Künste München",
+    "website": "https://www.adbk.de/",
+    "address": "Akademie der Bildenden Künste München\nAkademiestraße 2 - 4\n80799 München",
+    "email": "post@adbk.mhn.de"
+  },
+  {
+    "name": "Fachhochschule für öffentliche Verwaltung, Polizei und Rechtspflege",
+    "website": "http://www.fh-guestrow.de",
+    "address": "Fachhochschule für öffentliche Verwaltung, Polizei und Rechtspflege Goldberger Straße 12 - 13 18273 Güstrow",
+    "email": "poststelle@fh-guestrow.de"
+  },
+  {
+    "name": "Hochschule für Philosophie München",
+    "website": "https://www.hfph.de/",
+    "address": "Hochschule für Philosophie München / Philosophische Fakultät SJ\nKaulbachstraße 31a\nD-80539 München",
+    "email": "info@hfph.de"
+  },
+  {
+    "name": "Fliedner Fachhochschule Düsseldorf",
+    "website": "https://www.fliedner-fachhoch…",
+    "address": "Alte Landstraße 179\n40489 Düsseldorf",
+    "email": "info@fliedner-fachhochschule.de"
+  },
+  {
+    "name": "IUBH Internationale Hochschule GmbH",
+    "website": "https://www.iubh-dualesstudiu…",
+    "address": "Juri-Gagarin-Ring 152\n99084 Erfurt",
+    "email": "info@iubh-dualesstudium.de"
+  },
+  {
+    "name": "Fachhochschule Kiel",
+    "website": "http://www.fh-kiel.de",
+    "address": "Sokratesplatz 1 24149 Kiel",
+    "email": "info@fh-kiel.de"
+  },
+  {
+    "name": "Archivschule Marburg",
+    "website": "https://www.archivschule.de/",
+    "address": "Archivschule Marburg\nBismarckstraße 32\nD-35037 Marburg",
+    "email": "archivschule@staff.uni-marburg.de"
+  },
+  {
+    "name": "HIS Hochschul-Informations-System eG",
+    "website": "",
+    "address": "",
+    "email": "info@his.de"
+  },
+  {
+    "name": "Staatliche Akademie der bildenden Künste Karlsruhe",
+    "website": "http://www.kunstakademie-karl…",
+    "address": "Reinhold-Frank-Straße 67\n76133 Karlsruhe",
+    "email": "rektorat@kunstakademie-karlsruhe.de"
+  },
+  {
+    "name": "Fachhochschule Potsdam",
+    "website": "http://www.fh-potsdam.de/",
+    "address": "Fachhochschule Potsdam\nKiepenheuerallee 5\n14469 Potsdam",
+    "email": "info@fh-potsdam.de"
+  },
+  {
+    "name": "Hochschule für Musik Saar",
+    "website": "http://www.hfm.saarland.de",
+    "address": "Bismarckstraße 1\n66111 Saarbrücken",
+    "email": "t.wolter@hfm.saarland.de"
+  },
+  {
+    "name": "Hochschule für Politik München",
+    "website": "https://www.hfp.tum.de",
+    "address": "Hochschule für Politik München (HfP)\nRichard-Wagner-Straße 1\n80333 München",
+    "email": "info@hfp.tum.de"
+  },
+  {
+    "name": "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt",
+    "website": "https://www.fhws.de",
+    "address": "Hochschule für angewandte Wissenschaften\nWürzburg-Schweinfurt\nMünzstraße 12\n97070 Würzburg",
+    "email": "praesidialamt@fhws.de"
+  },
+  {
+    "name": "Justus-Liebig-Universität Gießen",
+    "website": "https://www.uni-giessen.de",
+    "address": "Ludwigstraße 23\n35390 Gießen",
+    "email": "pressestelle@uni-giessen.de"
+  },
+  {
+    "name": "Hochschule Wismar - University of Applied Sciences: Technology, Business and Design",
+    "website": "https://www.hs-wismar.de",
+    "address": "Postfach 1210,\n23952 Wismar",
+    "email": "pressestelle@hs-wismar.de"
+  },
+  {
+    "name": "VWA Hochschule für berufsbegleitendes Studium Stuttgart",
+    "website": "https://www.vwa-hochschule.de",
+    "address": "VWA-Hochschule für berufsbegleitendes Studium\nWolframstraße 32\n70191 Stuttgart",
+    "email": "info@vwa-hochschule.de"
+  },
+  {
+    "name": "Staatliche Hochschule für Gestaltung Karlsruhe",
+    "website": "http://www.hfg-karlsruhe.de",
+    "address": "Lorenzstraße 15\n76135 Karlsruhe",
+    "email": "hochschule@hfg-karlsruhe.de"
+  },
+  {
+    "name": "FOM Hochschule",
+    "website": "https://www.fom.de",
+    "address": "FOM Hochschule für Oekonomie & Management\nLeimkugelstraße 6\n45141 Essen",
+    "email": "info@fom.de"
+  },
+  {
+    "name": "Musikhochschule Lübeck",
+    "website": "http://www.mh-luebeck.de",
+    "address": "Große Petersgrube 21 23552 Lübeck",
+    "email": "info@mh-luebeck.de"
+  },
+  {
+    "name": "CODE University of Applied Sciences",
+    "website": "https://code.berlin/",
+    "address": "Lohmühlenstr. 65\n12435 Berlin",
+    "email": "hello@code.berlin"
+  },
+  {
+    "name": "Hochschule der Bundesagentur für Arbeit",
+    "website": "http://www.hdba.de/",
+    "address": "Seckenheimer Landstr. 16\n\nD - 68163 Mannheim\n\n",
+    "email": "info@hdba.de"
+  },
+  {
+    "name": "Kunstakademie Münster, Hochschule für Bildende Künste",
+    "website": "http://www.kunstakademie-muen…",
+    "address": "Leonardo-Campus 2 48149 Münster",
+    "email": "musholt@kunstakademie-muenster.de"
+  },
+  {
+    "name": "Hertie School",
+    "website": "https://www.hertie-school.org/",
+    "address": "Quartier 110\nFriedrichstraße 180\n10117 Berlin",
+    "email": "pressoffice@hertie-school.org"
+  },
+  {
+    "name": "Deutscher Akademischer Austauschdienst e.V.",
+    "website": "http://www.daad.de",
+    "address": "Kennedyallee 50\n53175 Bonn, Nordrhein-Westfalen\nDeutschland\n",
+    "email": "presse@daad.de"
+  },
+  {
+    "name": "EBZ Business School",
+    "website": "https://www.ebz-business-scho…",
+    "address": "Springorumallee 20\n44795 Bochum",
+    "email": "rektorat@ebz-bs.de"
+  },
+  {
+    "name": "German Graduate School of Management and Law",
+    "website": "https://www.ggs.de/",
+    "address": "German Graduate School of Management and Law\nBildungscampus 2\nD-74076 Heilbronn",
+    "email": "info@ggs.de"
+  },
+  {
+    "name": "Hochschule für Fernsehen und Film München",
+    "website": "https://www.hff-muenchen.de/",
+    "address": "HFF München\nBernd-Eichinger-Platz 1\n(vormals Gabelsbergerstraße 33)\n80333 München",
+    "email": "info@hff-muc.de"
+  },
+  {
+    "name": "Theologische Hochschule Reutlingen",
+    "website": "https://www.th-reutlingen.de/…",
+    "address": "Theologische Hochschule Reutlingen\nFriedrich-Ebert-Straße 31\nD-72762 Reutlingen",
+    "email": "info@th-reutlingen.de"
+  },
+  {
+    "name": "Fachhochschule Polizei Sachsen-Anhalt",
+    "website": "https://fh-polizei.sachsen-an…",
+    "address": "Schmidtmannstraße 86\n06449 Aschersleben",
+    "email": "presse.fhs@polizei.sachsen-anhalt.de"
+  },
+  {
+    "name": "Deutsche Hochschule für Prävention und Gesundheitsmanagement GmbH",
+    "website": "http://www.dhfpg.de",
+    "address": "66123 Saarbrücken",
+    "email": "info@dhfpg.de"
+  },
+  {
+    "name": "Hochschule Hannover",
+    "website": "https://www.hs-hannover.de/",
+    "address": "Hochschule Hannover\nPräsident/in\nExpo Plaza 4\n30539 Hannover",
+    "email": "poststelle@hs-hannover.de"
+  },
+  {
+    "name": "Hochschule Darmstadt",
+    "website": "https://www.h-da.de/",
+    "address": "Hochschule Darmstadt\nUniversity of Applied Sciences\nHaardtring 100\n64295 Darmstadt",
+    "email": "online-redaktion@h-da.de"
+  },
+  {
+    "name": "SRH Fernhochschule Riedlingen",
+    "website": "https://www.mobile-university…",
+    "address": "SRH Fernhochschule - The Mobile University\nStaatlich anerkannte Hochschule\nKirchstraße 26\n88499 Riedlingen",
+    "email": "info@mobile-university.de"
+  },
+  {
+    "name": "Hochschule für Schauspielkunst \"Ernst Busch\"",
+    "website": "http://www.hfs-berlin.de/",
+    "address": "",
+    "email": "presse@hfs-berlin.de"
+  },
+  {
+    "name": "Hochschule für Telekommunikation Leipzig",
+    "website": "https://www.hft-leipzig.de",
+    "address": "Hochschule für Telekommunikation Leipzig\nGustav-Freytag-Str. 43-45\n04277 Leipzig",
+    "email": "torsten.buettner@hft-leipzig.de"
+  },
+  {
+    "name": "Evangelische Hochschule Berlin",
+    "website": "https://www.eh-berlin.de/",
+    "address": "Teltower Damm 118–122\n14167 Berlin",
+    "email": "baluschek@eh-berlin.de"
+  },
+  {
+    "name": "Lutherische Theologische Hochschule Oberursel",
+    "website": "https://lthh.de/",
+    "address": "Lutherische Theologische Hochschule\nAltkönigstraße 150\n61440 Oberursel",
+    "email": "verwaltung@lthh-oberursel.de"
+  },
+  {
+    "name": "SRH Hochschule für Wirtschaft und Medien Calw",
+    "website": "https://www.hochschule-heidel…",
+    "address": "SRH Hochschule Heidelberg\nStaatlich anerkannte Hochschule\nLudwig-Guttmann-Straße 6\n69123 Heidelberg",
+    "email": "info@hochschule-heidelberg.de"
+  },
+  {
+    "name": "Technische Universität Bergakademie Freiberg",
+    "website": "https://tu-freiberg.de/",
+    "address": "Technische Universität Bergakademie Freiberg\nAkademiestraße 6\n09599 Freiberg",
+    "email": "presse@zuv.tu-freiberg.de"
+  },
+  {
+    "name": "Fachhochschule Südwestfalen",
+    "website": "http://www.fh-swf.de",
+    "address": "Baarstraße 6 58636 Iserlohn",
+    "email": "rektor@fh-swf.de"
+  },
+  {
+    "name": "Deutsche Hochschule für Verwaltungswissenschaften Speyer",
+    "website": "http://www.hfv-speyer.de/",
+    "address": "67346 Speyer, Freiherr-vom-Stein-Straße 2",
+    "email": ""
+  },
+  {
+    "name": "Helmut-Schmidt-Universität",
+    "website": "https://www.hsu-hh.de/",
+    "address": "Holstenhofweg 85\n22043 Hamburg",
+    "email": "pressestelle@hsu-hh.de"
+  },
+  {
+    "name": "Fachhochschule für öffentliche Verwaltung / Fachbereich Verwaltung",
+    "website": "",
+    "address": "56727 Mayen, St.-Veit-Straße 26-28",
+    "email": "info@fhoev-rlp.de"
+  },
+  {
+    "name": "Hochschule für öffentliche Verwaltung Rheinland-Pfalz",
+    "website": "https://hoev-rlp.de/",
+    "address": "St.-Veit-Straße 26-28\n56727 Mayen",
+    "email": "info@hoev-rlp.de"
+  },
+  {
+    "name": "Katholische Stiftungsfachhochschule München",
+    "website": "https://www.ksh-muenchen.de/",
+    "address": "Preysingstr. 83\n81667 München",
+    "email": "presse@ksh-m.de"
+  },
+  {
+    "name": "Hochschule Osnabrück",
+    "website": "https://www.hs-osnabrueck.de/",
+    "address": "Albrechtstr. 30\n49076 Osnabrück",
+    "email": "kommunikation@hs-osnabrueck.de"
+  },
+  {
+    "name": "Technische Hochschule Wildau (FH)",
+    "website": "http://www.th-wildau.de/",
+    "address": "Hochschulring 1 15745 Wildau",
+    "email": "hochschulkommunikation@th-wildau.de"
+  },
+  {
+    "name": "Deutsche Sporthochschule Köln",
+    "website": "http://www.dshs-koeln.de",
+    "address": "Am Sportpark Müngersdorf 6 50933 Köln",
+    "email": "kommunikation@dshs-koeln.de"
+  },
+  {
+    "name": "Berlin International - University of Applied Sciences",
+    "website": "https://www.berlin-internatio…",
+    "address": "Salzufer 6\n10587 Berlin",
+    "email": "info@berlin-international.de"
+  },
+  {
+    "name": "Fachhochschule für Finanzen NRW Schloß",
+    "website": "http://www.finanzamt.nrw.de/f…",
+    "address": "Fachhochschule für Finanzen NRW Schloß\n59394 Nordkirchen",
+    "email": "poststelle@fhf.fin-nrw.de"
+  },
+  {
+    "name": "Hochschule Fulda",
+    "website": "https://www.hs-fulda.de/",
+    "address": "Hochschule Fulda\nLeipziger Straße 123\n36037 Fulda",
+    "email": "praesident@hs-fulda.de"
+  },
+  {
+    "name": "Fachschaftsrat Rechtswissenschaft an der Humboldt-Universität zu Berlin",
+    "website": "https://www.rewi.hu-berlin.de…",
+    "address": "Humboldt-Universität\nFachschaftsrat Jura\nUnter den Linden 9\n10117 Berlin",
+    "email": "fachschaft@rewi.hu-berlin.de"
+  },
+  {
+    "name": "Technische Hochschule Brandenburg",
+    "website": "https://www.th-brandenburg.de…",
+    "address": "Postfach 2132\n14737 Brandenburg an der Havel",
+    "email": "info@th-brandenburg.de"
+  },
+  {
+    "name": "Deutsche Hochschule der Polizei (Münster)",
+    "website": "https://www.dhpol.de",
+    "address": "Deutsche Hochschule der Polizei (DHPol)\nPräsident Prof. Dr. Hans-Jürgen Lange\nZum Roten Berge 18 - 24\n48165 Münster",
+    "email": "hochschule@dhpol.de"
+  },
+  {
+    "name": "Medizinische Hochschule Brandenburg Theodor Fontane",
+    "website": "http://www.mhb-fontane.de/",
+    "address": "Fehrbelliner Straße 38\n16816 Neuruppin",
+    "email": "presse@mhb-fontane.de"
+  },
+  {
+    "name": "TH Köln",
+    "website": "https://www.th-koeln.de/",
+    "address": "Gustav-Heinemann-Ufer 54 50968 Köln",
+    "email": "datenschutzbeauftragter@th-koeln.de"
+  },
+  {
+    "name": "Fachhochschule Brandenburg",
+    "website": "http://www.fh-brandenburg.de",
+    "address": "Magdeburger Straße 50 14770 Brandenburg",
+    "email": ""
+  },
+  {
+    "name": "Ernst-Abbe-Hochschule Jena",
+    "website": "https://www.eah-jena.de/",
+    "address": "University of Applied Sciences\nCarl-Zeiss-Promenade 2\n07745 Jena​",
+    "email": "rektorat@eah-jena.de"
+  },
+  {
+    "name": "Pädagogische Hochschule Karlsruhe",
+    "website": "http://www.ph-karlsruhe.de",
+    "address": "Bismarckstraße 10\n76133 Karlsruhe",
+    "email": "poststelle@ph-karlsruhe.de"
+  },
+  {
+    "name": "Hochschule Mainz",
+    "website": "https://www.hs-mainz.de/",
+    "address": "55128 Mainz, Lucy-Hillebrand-Straße 2",
+    "email": "kontakt@hs-mainz.de"
+  },
+  {
+    "name": "Europa-Universität Flensburg",
+    "website": "https://www.uni-flensburg.de",
+    "address": "Europa-Universität Flensburg\nAuf dem Campus 1\n24943 Flensburg",
+    "email": "praesidium@uni-flensburg.de"
+  }
+]
